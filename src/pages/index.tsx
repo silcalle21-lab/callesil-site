@@ -122,7 +122,7 @@ export default function HomePage() {
       <main>
         {/* ── HERO ─────────────────────────────────────────────────────────── */}
         <section className="relative w-full h-screen min-h-[600px] overflow-hidden">
-          <img src="/airo-assets/images/pages/home/hero" alt="CALLESIL premium graphic T-shirt editorial" className="absolute inset-0 w-full h-full object-cover object-center" loading="eager" fetchPriority="high" width={1920} height={1080} />
+          <img src="/callesil-site/assets/images/premium-editorial-hero-image-for-a-graph-eCUZDc.png" alt="CALLESIL premium graphic T-shirt editorial" className="absolute inset-0 w-full h-full object-cover object-center" loading="eager" fetchPriority="high" width={1920} height={1080} />          
           {/* Gradient overlay */}
           <div className="absolute inset-0 pointer-events-none" style={{
           background: 'linear-gradient(to bottom, rgba(10,10,10,0.3) 0%, rgba(10,10,10,0.55) 60%, rgba(10,10,10,0.75) 100%)'
