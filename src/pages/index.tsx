@@ -263,10 +263,14 @@ export default function HomePage() {
         <section className="relative w-full overflow-hidden" style={{
         minHeight: '70vh'
       }}>
-         <img src={home.newArrivals.image} alt="CALLESIL new arrivals editorial" className="absolute inset-0 w-full h-full object-cover object-center" loading="lazy" width={1920} height={1080} 
-           />          background: 'linear-gradient(to right, rgba(10,10,10,0.75) 0%, rgba(10,10,10,0.3) 60%, rgba(10,10,10,0.1) 100%)'
-        }} />
-          <div className="relative flex items-center min-h-[70vh] px-6 md:px-16 lg:px-24 py-24">
+        <img src={home.newArrivals.image} alt="CALLESIL new arrivals editorial"className="absolute inset-0 w-full h-full object-cover object-center"loading="lazy"width={1920}height={1080}/>
+
+<div
+  className="absolute inset-0 pointer-events-none"
+  style={{
+    background: 'linear-gradient(to right, rgba(10,10,10,0.75) 0%, rgba(10,10,10,0.3) 60%, rgba(10,10,10,0.1) 100%)'
+  }}
+/>          <div className="relative flex items-center min-h-[70vh] px-6 md:px-16 lg:px-24 py-24">
             <motion.div initial="hidden" whileInView="visible" viewport={{
             once: true,
             margin: '-80px'
