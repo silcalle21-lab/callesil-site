@@ -4,7 +4,8 @@ export const schemas = {
     "hero": z.object({
       "headline": z.string(),
       "subheadline": z.string(),
-      "cta": z.string()
+      "cta": z.string(),
+      "image": z.string()
     }),
     "shopOurDesigns": z.object({
       "label": z.string(),
