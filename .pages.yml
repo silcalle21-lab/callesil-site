@@ -1,0 +1,39 @@
+media:
+  input: public/assets/images
+  output: /assets/images
+
+content:
+  - name: products
+    label: Products
+    type: file
+    path: src/content/data/products.json
+    format: json  
+    list: true
+    fields:
+      - name: id
+        label: ID
+        type: string
+      - name: slug
+        label: Slug
+        type: string
+      - name: name
+        label: Product Name
+        type: string
+      - name: category
+        label: Category
+        type: string
+      - name: price
+        label: Price
+        type: string
+      - name: tag
+        label: Tag
+        type: string
+      - name: shortDescription
+        label: Short Description
+        type: text
+      - name: description
+        label: Description
+        type: text
+      - name: etsyUrl
+        label: Etsy Link
+        type: string
