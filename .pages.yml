@@ -1,6 +1,7 @@
 media:
   input: public/assets/images
   output: /callesil-site/assets/images
+
 content:
   - name: products
     label: Products
@@ -79,15 +80,228 @@ content:
           - name: id
             label: Review ID
             type: string
+
           - name: author
             label: Author
             type: string
+
           - name: rating
             label: Rating
             type: number
+
           - name: text
             label: Review
             type: text
+
           - name: date
             label: Date
+            type: string
+
+  - name: home
+    label: Home Page
+    type: file
+    path: src/content/pages/home.json
+    format: json
+
+    fields:
+      - name: hero
+        label: Hero
+        type: object
+        fields:
+          - name: headline
+            label: Headline
+            type: string
+
+          - name: subheadline
+            label: Subheadline
+            type: text
+
+          - name: cta
+            label: Button Text
+            type: string
+
+          - name: image
+            label: Hero Image
+            type: image
+
+      - name: shopOurDesigns
+        label: Shop Our Designs
+        type: object
+        fields:
+          - name: label
+            label: Section Title
+            type: string
+
+          - name: products
+            label: Products
+            type: object
+            list: true
+            fields:
+              - name: id
+                label: ID
+                type: string
+
+              - name: name
+                label: Product Name
+                type: string
+
+              - name: image
+                label: Product Image
+                type: image
+
+              - name: etsyUrl
+                label: Etsy Link
+                type: string
+
+      - name: featuredCollection
+        label: Featured Collection
+        type: object
+        fields:
+          - name: label
+            label: Section Title
+            type: string
+
+          - name: products
+            label: Products
+            type: object
+            list: true
+            fields:
+              - name: id
+                label: ID
+                type: string
+
+              - name: name
+                label: Product Name
+                type: string
+
+              - name: tag
+                label: Tag
+                type: string
+                required: false
+
+              - name: price
+                label: Price
+                type: string
+                required: false
+
+      - name: bestSellers
+        label: Best Sellers
+        type: object
+        fields:
+          - name: label
+            label: Section Title
+            type: string
+
+          - name: products
+            label: Products
+            type: object
+            list: true
+            fields:
+              - name: id
+                label: ID
+                type: string
+
+              - name: name
+                label: Product Name
+                type: string
+
+              - name: image
+                label: Product Image
+                type: image
+
+              - name: etsyUrl
+                label: Etsy Link
+                type: string
+
+      - name: newArrivals
+        label: Halloween Collection
+        type: object
+        fields:
+          - name: label
+            label: Section Label
+            type: string
+
+          - name: headline
+            label: Headline
+            type: string
+
+          - name: subtext
+            label: Subtext
+            type: text
+
+          - name: cta
+            label: Button Text
+            type: string
+
+      - name: about
+        label: About CALLESIL
+        type: object
+        fields:
+          - name: label
+            label: Section Label
+            type: string
+
+          - name: headline
+            label: Headline
+            type: string
+
+          - name: body
+            label: Body
+            type: text
+
+          - name: cta
+            label: Button Text
+            type: string
+
+      - name: reviews
+        label: Homepage Reviews
+        type: object
+        fields:
+          - name: label
+            label: Section Title
+            type: string
+
+          - name: items
+            label: Reviews
+            type: object
+            list: true
+            fields:
+              - name: id
+                label: ID
+                type: string
+
+              - name: quote
+                label: Review
+                type: text
+
+              - name: author
+                label: Author
+                type: string
+
+      - name: newsletter
+        label: Newsletter
+        type: object
+        fields:
+          - name: headline
+            label: Headline
+            type: string
+
+          - name: subtext
+            label: Subtext
+            type: text
+
+          - name: placeholder
+            label: Email Placeholder
+            type: string
+
+          - name: cta
+            label: Button Text
+            type: string
+
+      - name: instagram
+        label: Instagram
+        type: object
+        fields:
+          - name: label
+            label: Section Title
             type: string
