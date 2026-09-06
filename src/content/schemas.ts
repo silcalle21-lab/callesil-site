@@ -46,7 +46,7 @@ export const schemas = {
       "headline": z.string(),
       "body": z.string(),
       "cta": z.string(),
-      "image": z.string()
+      "image": z.string().optional()
     }),
     "reviews": z.object({
       "label": z.string(),
@@ -64,7 +64,7 @@ export const schemas = {
     }),
     "instagram": z.object({
       "label": z.string(),
-      "images": z.array(z.string())
+      "images": z.array(z.string()).optional()
   })
   }),
   shop: z.object({
