@@ -9,34 +9,86 @@ content:
     path: src/content/data/products.json
     format: json
     list: true
+
     fields:
       - name: id
         label: ID
         type: string
+
       - name: slug
         label: Slug
         type: string
+
       - name: name
         label: Product Name
         type: string
+
       - name: image
         label: Product Image
         type: image
+        required: false
+
       - name: category
         label: Category
         type: string
+
       - name: price
         label: Price
         type: string
+        required: false
+
       - name: tag
         label: Tag
         type: string
+        required: false
+
       - name: shortDescription
         label: Short Description
         type: text
+
       - name: description
         label: Description
         type: text
+
+      - name: details
+        label: Product Details
+        type: string
+        list: true
+
+      - name: sizes
+        label: Available Sizes
+        type: string
+        list: true
+
+      - name: fit
+        label: Fit
+        type: string
+
+      - name: shipping
+        label: Shipping
+        type: string
+
       - name: etsyUrl
         label: Etsy Link
         type: string
+
+      - name: reviews
+        label: Reviews
+        type: object
+        list: true
+        fields:
+          - name: id
+            label: Review ID
+            type: string
+          - name: author
+            label: Author
+            type: string
+          - name: rating
+            label: Rating
+            type: number
+          - name: text
+            label: Review
+            type: text
+          - name: date
+            label: Date
+            type: string
