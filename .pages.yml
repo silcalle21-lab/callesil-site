@@ -7,7 +7,7 @@ content:
     label: Products
     type: file
     path: src/content/data/products.json
-    format: json  
+    format: json
     list: true
     fields:
       - name: id
@@ -19,6 +19,9 @@ content:
       - name: name
         label: Product Name
         type: string
+      - name: image
+        label: Product Image
+        type: image
       - name: category
         label: Category
         type: string
