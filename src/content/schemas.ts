@@ -38,13 +38,15 @@ export const schemas = {
       "label": z.string(),
       "headline": z.string(),
       "subtext": z.string(),
-      "cta": z.string()
+      "cta": z.string(),
+      "image": z.string()
     }),
     "about": z.object({
       "label": z.string(),
       "headline": z.string(),
       "body": z.string(),
-      "cta": z.string()
+      "cta": z.string(),
+      "image": z.string()
     }),
     "reviews": z.object({
       "label": z.string(),
@@ -61,8 +63,9 @@ export const schemas = {
       "cta": z.string()
     }),
     "instagram": z.object({
-      "label": z.string()
-    })
+      "label": z.string(),
+      "images": z.array(z.string())
+  })
   }),
   shop: z.object({
     "hero": z.object({
