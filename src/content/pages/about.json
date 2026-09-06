@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "label": "Our Story",
+    "headline": "Made with Intention.",
+    "subheadline": "CALLESIL began with a single question: why does clothing that looks good rarely feel good to wear — and why does clothing that feels good rarely say anything worth saying?"
+  },
+  "story": {
+    "eyebrow": "The Beginning",
+    "heading": "Born from a Blank Canvas",
+    "paragraphs": [
+      "CALLESIL started in a small studio with nothing but a sketchbook, a sewing machine, and a stubborn belief that a T-shirt could be more than a T-shirt.",
+      "We were tired of fast fashion's disposable logic — pieces designed to be forgotten. So we set out to create the opposite: graphic tees with a point of view, built to last, and made from materials you can actually feel the difference in.",
+      "Every design begins as a hand-drawn concept. Every fabric is chosen for weight, drape, and longevity. Every piece is finished with the kind of care that only comes from a brand that makes things slowly, on purpose."
+    ]
+  },
+  "values": [
+    {
+      "id": "v-1",
+      "title": "Intentional Design",
+      "description": "Nothing is added without reason. Every graphic, every cut, every stitch serves the whole. We design for people who notice the details."
+    },
+    {
+      "id": "v-2",
+      "title": "Premium Materials",
+      "description": "We source only 100% organic cotton — soft, breathable, and built to hold its shape wash after wash. Quality you can feel from the first wear."
+    },
+    {
+      "id": "v-3",
+      "title": "Small Batch Production",
+      "description": "We produce in limited runs. Not as a marketing tactic, but because it lets us maintain the quality and attention each piece deserves."
+    },
+    {
+      "id": "v-4",
+      "title": "Timeless Over Trendy",
+      "description": "We don't chase seasons. Our pieces are designed to be worn for years, not months — classics with a creative edge."
+    }
+  ],
+  "manifesto": {
+    "eyebrow": "What We Believe",
+    "quote": "Wear what you mean. Mean what you wear.",
+    "body": "Style is a language. CALLESIL exists to give you something worth saying."
+  },
+  "cta": {
+    "heading": "Ready to wear it?",
+    "subtext": "Explore the full collection on our Etsy store.",
+    "button": "Shop the Collection"
+  }
+}

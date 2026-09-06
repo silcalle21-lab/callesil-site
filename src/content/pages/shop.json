@@ -1,0 +1,137 @@
+{
+  "hero": {
+    "label": "The Collection",
+    "headline": "Every Piece, Intentional.",
+    "subheadline": "Premium graphic T-shirts crafted for those who wear their values."
+  },
+  "filters": [
+    "All",
+    "Halloween",
+    "Summer & Ocean",
+    "Graphic Tees"
+  ],
+  "products": [
+    {
+      "id": "p-1",
+      "name": "Like A Butterfly",
+      "category": "Graphic Tees",
+      "price": "",
+      "tag": "",
+      "description": "Bold and beautiful. A striking butterfly graphic tee full of color and personality.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "p-2",
+      "name": "Stay Fresh Stay Bloom",
+      "category": "Summer & Ocean",
+      "price": "",
+      "tag": "",
+      "description": "Fresh florals and summer energy. A colorful graphic tee made for bright days.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": "p-3",
+      "name": "Imperfect",
+      "category": "Graphic Tees",
+      "price": "",
+      "tag": "",
+      "description": "Embrace the imperfect. A playful, original graphic tee with a message.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "p-4",
+      "name": "Money Maker",
+      "category": "Graphic Tees",
+      "price": "",
+      "tag": "",
+      "description": "Bold, confident and unapologetic. A graphic tee that makes a statement.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ]
+    },
+    {
+      "id": "p-5",
+      "name": "Wild West Disco",
+      "category": "Graphic Tees",
+      "price": "",
+      "tag": "",
+      "description": "Where the wild west meets disco fever. A fun, colorful graphic tee full of character.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "p-6",
+      "name": "Salty Hair",
+      "category": "Summer & Ocean",
+      "price": "",
+      "tag": "",
+      "description": "Sun, salt and good vibes. A breezy ocean-inspired graphic tee for summer days.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "p-7",
+      "name": "Haunted Season",
+      "category": "Halloween",
+      "price": "",
+      "tag": "",
+      "description": "Spooky, playful and original. A Halloween graphic tee made for the season.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": "p-8",
+      "name": "Sailor Dreams",
+      "category": "Summer & Ocean",
+      "price": "",
+      "tag": "",
+      "description": "Nautical vibes and ocean dreams. A colorful, artistic graphic tee for the sea lovers.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  ],
+  "cta": {
+    "headline": "Can't find your size?",
+    "subtext": "Visit our Etsy store for full size availability, custom orders, and the latest drops.",
+    "button": "Visit the Etsy Store"
+  }
+}

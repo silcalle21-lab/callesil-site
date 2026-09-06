@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CALLESIL</title>
+    <script>
+      // GitHub Pages 404 redirect — preserves the path in the hash so the
+      // React app can pick it up and render the correct route.
+      (function () {
+        var path = window.location.pathname;
+        var search = window.location.search;
+        var hash = window.location.hash;
+        // Redirect to index.html with the path encoded in the hash
+        window.location.replace(
+          window.location.origin +
+            window.location.pathname.split('/').slice(0, -1).join('/') +
+            '/?p=' + encodeURIComponent(path + search) + hash
+        );
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>

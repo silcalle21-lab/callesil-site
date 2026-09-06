@@ -1,0 +1,106 @@
+{
+  "hero": {
+    "label": "Get in Touch",
+    "headline": "We'd love to hear from you.",
+    "subheadline": "Questions about sizing, orders, custom pieces, or just want to say hello — we're here."
+  },
+  "form": {
+    "heading": "Send a Message",
+    "subtext": "We typically respond within 1–2 business days.",
+    "topicLabel": "What's this about?",
+    "topics": [
+      "General Inquiry",
+      "Order Status",
+      "Sizing & Fit",
+      "Custom Order",
+      "Wholesale",
+      "Other"
+    ],
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "Your email",
+    "messagePlaceholder": "Tell us what's on your mind...",
+    "submitButton": "Send Message",
+    "successHeading": "Message received.",
+    "successBody": "Thanks for reaching out. We'll get back to you within 1–2 business days."
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "items": [
+      {
+        "id": "faq-1",
+        "question": "What sizes do you offer?",
+        "answer": "Our tees are available in XS through XXL. Each product listing on Etsy includes a detailed size guide with chest, length, and shoulder measurements. When in doubt, size up — our pieces are designed to wear with a relaxed fit."
+      },
+      {
+        "id": "faq-2",
+        "question": "What materials do you use?",
+        "answer": "All CALLESIL pieces are made from 100% GOTS-certified organic cotton. We source only ring-spun, pre-shrunk jersey for a soft hand feel and consistent fit wash after wash. No synthetic blends, no shortcuts."
+      },
+      {
+        "id": "faq-3",
+        "question": "How long does shipping take?",
+        "answer": "Orders are processed within 2–3 business days. Standard shipping within Turkey takes 2–4 business days. International orders typically arrive within 7–14 business days depending on destination and customs clearance."
+      },
+      {
+        "id": "faq-4",
+        "question": "Do you ship internationally?",
+        "answer": "Yes — we ship worldwide via our Etsy store. International shipping rates and estimated delivery times are shown at checkout. Please note that import duties and taxes are the responsibility of the buyer."
+      },
+      {
+        "id": "faq-5",
+        "question": "What is your return policy?",
+        "answer": "We accept returns on unworn, unwashed items in original condition within 14 days of delivery. To start a return, send us a message through Etsy or use the contact form on this page. Custom and limited edition pieces are final sale."
+      },
+      {
+        "id": "faq-6",
+        "question": "Can I place a custom order?",
+        "answer": "Absolutely. We love working on custom pieces — whether it's a specific colorway, a modified graphic, or a bulk order for an event or brand. Reach out via the contact form and tell us what you have in mind."
+      },
+      {
+        "id": "faq-7",
+        "question": "How should I care for my CALLESIL tee?",
+        "answer": "Machine wash cold, inside out, with like colors. Tumble dry low or hang to dry. Do not bleach or iron directly on the graphic. Proper care keeps the print sharp and the fabric soft for years."
+      },
+      {
+        "id": "faq-8",
+        "question": "Are your products ethically made?",
+        "answer": "Yes. We produce in small batches with makers we know personally. Our organic cotton is certified, our production runs are intentionally limited, and we never compromise on working conditions to cut costs."
+      }
+    ]
+  },
+  "shipping": {
+    "heading": "Shipping & Returns",
+    "items": [
+      {
+        "id": "s-1",
+        "title": "Processing Time",
+        "detail": "2–3 business days"
+      },
+      {
+        "id": "s-2",
+        "title": "Domestic Shipping",
+        "detail": "2–4 business days"
+      },
+      {
+        "id": "s-3",
+        "title": "International Shipping",
+        "detail": "7–14 business days"
+      },
+      {
+        "id": "s-4",
+        "title": "Returns Window",
+        "detail": "14 days from delivery"
+      },
+      {
+        "id": "s-5",
+        "title": "Return Condition",
+        "detail": "Unworn & unwashed only"
+      },
+      {
+        "id": "s-6",
+        "title": "Custom & Limited Pieces",
+        "detail": "Final sale — no returns"
+      }
+    ]
+  }
+}

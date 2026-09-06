@@ -1,0 +1,995 @@
+{
+  "pages/home/hero": {
+    "requestedSize": {
+      "width": 1920,
+      "height": 1080,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/premium-editorial-hero-image-for-a-graph-eCUZDc.png",
+    "searchQuery": "oversized white tshirt ocean inspired styling",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2173489561",
+      "https://img1.wsimg.com/isteam/getty/2215720892",
+      "https://img1.wsimg.com/isteam/getty/1215159395",
+      "https://img1.wsimg.com/isteam/getty/2175787997",
+      "https://img1.wsimg.com/isteam/getty/1591381294"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-24T07:40:29.588Z",
+    "lastUpdated": "2026-09-06T13:40:59.481Z",
+    "alternativeGettyIds": [
+      "2173489561",
+      "2215720892",
+      "1215159395",
+      "2175787997",
+      "1591381294"
+    ],
+    "caption": "oversized white tshirt ocean inspired styling",
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/premium-editorial-hero-image-for-a-graph-eCUZDc.png"
+    ]
+  },
+  "pages/home/featured-large": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2136237631",
+    "searchQuery": "oversized tshirt fashion editorial studio white background model standing",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2216003473",
+      "https://img1.wsimg.com/isteam/getty/1412730915",
+      "https://img1.wsimg.com/isteam/getty/1333923906",
+      "https://img1.wsimg.com/isteam/getty/1407618789"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:40:37.653Z",
+    "lastUpdated": "2026-07-24T07:40:37.653Z",
+    "gettyId": "2136237631",
+    "alternativeGettyIds": [
+      "2216003473",
+      "1412730915",
+      "1333923906",
+      "1407618789"
+    ],
+    "orientations": "vertical",
+    "moods": "bold,natural",
+    "graphicalStyles": "photography",
+    "minimumSize": "large"
+  },
+  "pages/home/featured-small-1": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2238370276",
+    "searchQuery": "premium graphic tee minimal fashion photography clean background",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1406926848",
+      "https://img1.wsimg.com/isteam/getty/2216380543",
+      "https://img1.wsimg.com/isteam/getty/2240046940",
+      "https://img1.wsimg.com/isteam/getty/2234156755"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:40:39.348Z",
+    "lastUpdated": "2026-07-24T07:40:39.348Z",
+    "gettyId": "2238370276",
+    "alternativeGettyIds": [
+      "1406926848",
+      "2216380543",
+      "2240046940",
+      "2234156755"
+    ],
+    "orientations": "square",
+    "moods": "natural,bold",
+    "graphicalStyles": "photography",
+    "minimumSize": "medium"
+  },
+  "pages/home/featured-small-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2261965288",
+    "searchQuery": "fashion tshirt flat lay minimal white background luxury apparel",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2216380543",
+      "https://img1.wsimg.com/isteam/getty/1399756624",
+      "https://img1.wsimg.com/isteam/getty/2259040686",
+      "https://img1.wsimg.com/isteam/getty/2173126635"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:40:40.870Z",
+    "lastUpdated": "2026-07-24T07:40:40.870Z",
+    "gettyId": "2261965288",
+    "alternativeGettyIds": [
+      "2216380543",
+      "1399756624",
+      "2259040686",
+      "2173126635"
+    ],
+    "orientations": "square",
+    "moods": "natural",
+    "graphicalStyles": "photography",
+    "minimumSize": "medium"
+  },
+  "pages/home/bestseller-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-bestseller-1-fce16d20.jpg",
+    "searchQuery": "woman wearing iced matcha club graphic tee",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1412730915",
+      "https://img1.wsimg.com/isteam/getty/1417687410",
+      "https://img1.wsimg.com/isteam/getty/1621262431",
+      "https://img1.wsimg.com/isteam/getty/1384836498",
+      "https://img1.wsimg.com/isteam/getty/1331281439"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-24T07:40:42.918Z",
+    "lastUpdated": "2026-09-06T14:06:56.231Z",
+    "alternativeGettyIds": [
+      "1412730915",
+      "1417687410",
+      "1621262431",
+      "1384836498",
+      "1331281439"
+    ],
+    "orientations": "vertical",
+    "moods": "bold,natural",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-bestseller-1-fce16d20.jpg": "woqvsorppy_1788703499985_file_sXTQT8Uscy.jpeg"
+    },
+    "uploadContentHash": "1cf60b898c916738fe937a1a3e611e4e3534e21c8a067fb7e2bc050ca3a21db2",
+    "caption": "woman wearing iced matcha club graphic tee"
+  },
+  "pages/home/bestseller-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-bestseller-2-3fb581f7.jpg",
+    "searchQuery": "woman wearing christmas in july graphic tee drinking iced coffee",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2267026583",
+      "https://img1.wsimg.com/isteam/getty/1292338045",
+      "https://img1.wsimg.com/isteam/getty/1481650405",
+      "https://img1.wsimg.com/isteam/getty/2149860707",
+      "https://img1.wsimg.com/isteam/getty/1311116360"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-24T07:40:44.673Z",
+    "lastUpdated": "2026-09-06T14:05:27.081Z",
+    "alternativeGettyIds": [
+      "2267026583",
+      "1292338045",
+      "1481650405",
+      "2149860707",
+      "1311116360"
+    ],
+    "orientations": "vertical",
+    "moods": "bold,cool",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-bestseller-2-3fb581f7.jpg": "woqvsorppy_1788703499988_file__7xum531Cp.jpeg"
+    },
+    "uploadContentHash": "9a6abdf22bf33a7354fbd34999c12873ae2c63377875e2e9283af020f9fccafa",
+    "caption": "woman wearing christmas in july graphic tee drinking iced coffee"
+  },
+  "pages/home/bestseller-3": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-bestseller-3-c27face4.jpg",
+    "searchQuery": "person wearing halloween mummy graphic tee",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1417313635",
+      "https://img1.wsimg.com/isteam/getty/1417687410",
+      "https://img1.wsimg.com/isteam/getty/1398198334",
+      "https://img1.wsimg.com/isteam/getty/2197582625",
+      "https://img1.wsimg.com/isteam/getty/2225793886"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-24T07:40:48.314Z",
+    "lastUpdated": "2026-09-06T14:05:27.551Z",
+    "alternativeGettyIds": [
+      "1417313635",
+      "1417687410",
+      "1398198334",
+      "2197582625",
+      "2225793886"
+    ],
+    "orientations": "vertical",
+    "moods": "natural,bold",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-bestseller-3-c27face4.jpg": "woqvsorppy_1788703499987_file_8QyG5aP_ob.jpeg"
+    },
+    "uploadContentHash": "77eb4913cf9c4e702226cf7b09a1d5e73d071d7fa17682b7a72e32a2cf036777",
+    "caption": "person wearing halloween mummy graphic tee"
+  },
+  "pages/home/new-arrivals": {
+    "requestedSize": {
+      "width": 1920,
+      "height": 1080,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "sortOrder": "best_match",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1162393101",
+    "searchQuery": "Halloween fashion editorial dark moody orange black aesthetic premium apparel",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1677768530",
+      "https://img1.wsimg.com/isteam/getty/2171494226",
+      "https://img1.wsimg.com/isteam/getty/1344441371",
+      "https://img1.wsimg.com/isteam/getty/1677769666"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:40:56.181Z",
+    "lastUpdated": "2026-09-06T14:08:05.127Z",
+    "gettyId": "1162393101",
+    "alternativeGettyIds": [
+      "1677768530",
+      "2171494226",
+      "1344441371",
+      "1677769666"
+    ]
+  },
+  "pages/home/instagram-1": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1440962879",
+    "searchQuery": "fashion tshirt editorial minimal photography square format",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1012094696",
+      "https://img1.wsimg.com/isteam/getty/2284851524",
+      "https://img1.wsimg.com/isteam/getty/2269333557",
+      "https://img1.wsimg.com/isteam/getty/2216380543"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:41:00.131Z",
+    "lastUpdated": "2026-07-24T07:41:00.131Z",
+    "gettyId": "1440962879",
+    "alternativeGettyIds": [
+      "1012094696",
+      "2284851524",
+      "2269333557",
+      "2216380543"
+    ],
+    "orientations": "square",
+    "moods": "bold,natural",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/instagram-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2216380543",
+    "searchQuery": "oversized tshirt model minimal clean background fashion square",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1354412166",
+      "https://img1.wsimg.com/isteam/getty/2261965288",
+      "https://img1.wsimg.com/isteam/getty/2234156755",
+      "https://img1.wsimg.com/isteam/getty/2238370276"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:41:01.543Z",
+    "lastUpdated": "2026-07-24T07:41:01.543Z",
+    "gettyId": "2216380543",
+    "alternativeGettyIds": [
+      "1354412166",
+      "2261965288",
+      "2234156755",
+      "2238370276"
+    ],
+    "orientations": "square",
+    "moods": "natural,cool",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/instagram-3": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/613890644",
+    "searchQuery": "premium apparel fashion lifestyle minimal editorial photography",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1012451500",
+      "https://img1.wsimg.com/isteam/getty/670353086",
+      "https://img1.wsimg.com/isteam/getty/621980860",
+      "https://img1.wsimg.com/isteam/getty/1048830934"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:41:03.082Z",
+    "lastUpdated": "2026-07-24T07:41:03.082Z",
+    "gettyId": "613890644",
+    "alternativeGettyIds": [
+      "1012451500",
+      "670353086",
+      "621980860",
+      "1048830934"
+    ],
+    "orientations": "square",
+    "moods": "bold,dramatic",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/instagram-4": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2265452992",
+    "searchQuery": "graphic tee fashion editorial black white photography minimal",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1491212613",
+      "https://img1.wsimg.com/isteam/getty/2277283838",
+      "https://img1.wsimg.com/isteam/getty/2012819067",
+      "https://img1.wsimg.com/isteam/getty/1440186071"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:41:04.258Z",
+    "lastUpdated": "2026-07-24T07:41:04.258Z",
+    "gettyId": "2265452992",
+    "alternativeGettyIds": [
+      "1491212613",
+      "2277283838",
+      "2012819067",
+      "1440186071"
+    ],
+    "orientations": "square",
+    "moods": "bold,natural",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/instagram-5": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1354412166",
+    "searchQuery": "fashion model tshirt minimal outdoor clean aesthetic editorial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2153857620",
+      "https://img1.wsimg.com/isteam/getty/613890644",
+      "https://img1.wsimg.com/isteam/getty/1012094696",
+      "https://img1.wsimg.com/isteam/getty/2284851524"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:41:05.790Z",
+    "lastUpdated": "2026-07-24T07:41:05.790Z",
+    "gettyId": "1354412166",
+    "alternativeGettyIds": [
+      "2153857620",
+      "613890644",
+      "1012094696",
+      "2284851524"
+    ],
+    "orientations": "square",
+    "moods": "natural,warm",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/instagram-6": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/670353086",
+    "searchQuery": "luxury apparel brand lifestyle photography minimal studio fashion",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1440962879",
+      "https://img1.wsimg.com/isteam/getty/1012451500",
+      "https://img1.wsimg.com/isteam/getty/2196722778",
+      "https://img1.wsimg.com/isteam/getty/2184402949"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:41:08.076Z",
+    "lastUpdated": "2026-07-24T07:41:08.076Z",
+    "gettyId": "670353086",
+    "alternativeGettyIds": [
+      "1440962879",
+      "1012451500",
+      "2196722778",
+      "2184402949"
+    ],
+    "orientations": "square",
+    "moods": "bold,cool",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/about": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1482692786",
+    "searchQuery": "fashion designer atelier minimal workspace creative brand lifestyle",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1480393030",
+      "https://img1.wsimg.com/isteam/getty/2157212259",
+      "https://img1.wsimg.com/isteam/getty/2164354573",
+      "https://img1.wsimg.com/isteam/getty/1484323029"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:41:15.844Z",
+    "lastUpdated": "2026-07-24T07:41:15.844Z",
+    "gettyId": "1482692786",
+    "alternativeGettyIds": [
+      "1480393030",
+      "2157212259",
+      "2164354573",
+      "1484323029"
+    ],
+    "orientations": "vertical",
+    "moods": "natural,warm",
+    "graphicalStyles": "photography",
+    "minimumSize": "large"
+  },
+  "pages/shop/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2150688019",
+    "searchQuery": "premium graphic tshirt fashion editorial minimal studio hero banner",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2196698174",
+      "https://img1.wsimg.com/isteam/getty/2133695840",
+      "https://img1.wsimg.com/isteam/getty/1388349786",
+      "https://img1.wsimg.com/isteam/getty/2235039712"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:46:33.247Z",
+    "lastUpdated": "2026-07-24T07:46:33.247Z",
+    "gettyId": "2150688019",
+    "alternativeGettyIds": [
+      "2196698174",
+      "2133695840",
+      "1388349786",
+      "2235039712"
+    ],
+    "requestedSize": {
+      "width": 1920,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "bold,dramatic",
+    "graphicalStyles": "photography",
+    "minimumSize": "large"
+  },
+  "pages/shop/product-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-shop-product-1-d5e70de6.jpg",
+    "searchQuery": "woman wearing skeleton ribcage butterfly graphic tee",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1417687410",
+      "https://img1.wsimg.com/isteam/getty/1412730915",
+      "https://img1.wsimg.com/isteam/getty/961534578",
+      "https://img1.wsimg.com/isteam/getty/1167588839",
+      "https://img1.wsimg.com/isteam/getty/1417313635"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-24T07:46:40.458Z",
+    "lastUpdated": "2026-09-06T14:24:46.484Z",
+    "alternativeGettyIds": [
+      "1417687410",
+      "1412730915",
+      "961534578",
+      "1167588839",
+      "1417313635"
+    ],
+    "orientations": "vertical",
+    "moods": "bold,natural",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-shop-product-1-d5e70de6.jpg": "woqvsorppy_1788704648643_file_Ql0n3-QPOa.jpeg"
+    },
+    "uploadContentHash": "24457ed29515c559a963824a6c9d01e118e64c34ec1078e5fba718802543c607",
+    "caption": "woman wearing skeleton ribcage butterfly graphic tee"
+  },
+  "pages/shop/product-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-shop-product-2-314014be.jpg",
+    "searchQuery": "woman wearing summer sunflower graphic tee beach",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2216003473",
+      "https://img1.wsimg.com/isteam/getty/2136237631",
+      "https://img1.wsimg.com/isteam/getty/1412730915",
+      "https://img1.wsimg.com/isteam/getty/1333923906",
+      "https://img1.wsimg.com/isteam/getty/1407618789"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-24T07:46:41.932Z",
+    "lastUpdated": "2026-09-06T14:24:46.072Z",
+    "alternativeGettyIds": [
+      "2216003473",
+      "2136237631",
+      "1412730915",
+      "1333923906",
+      "1407618789"
+    ],
+    "orientations": "vertical",
+    "moods": "natural,cool",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-shop-product-2-314014be.jpg": "woqvsorppy_1788704648645_file_Rv-8Jnehux.jpeg"
+    },
+    "uploadContentHash": "c7a996401b56cbcd3a3b2bc25f105d7bb7764559af5f3eaa988fee1312c55f4d",
+    "caption": "woman wearing summer sunflower graphic tee beach"
+  },
+  "pages/shop/product-3": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-shop-product-3-daa1e86c.jpg",
+    "searchQuery": "woman wearing white graphic t-shirt indoors",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2197582625",
+      "https://img1.wsimg.com/isteam/getty/1417313635",
+      "https://img1.wsimg.com/isteam/getty/2216003473",
+      "https://img1.wsimg.com/isteam/getty/2225794049",
+      "https://img1.wsimg.com/isteam/getty/1865505513"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-24T07:46:43.718Z",
+    "lastUpdated": "2026-09-06T14:24:46.293Z",
+    "alternativeGettyIds": [
+      "2197582625",
+      "1417313635",
+      "2216003473",
+      "2225794049",
+      "1865505513"
+    ],
+    "orientations": "vertical",
+    "moods": "bold,dramatic",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-shop-product-3-daa1e86c.jpg": "woqvsorppy_1788704648151_file_mEK41foP55.jpeg"
+    },
+    "uploadContentHash": "3a20600849453b25dc49721f0776eade8e5b978830793157ec597945b164cfaa",
+    "caption": "woman wearing white graphic t-shirt indoors"
+  },
+  "pages/shop/product-4": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-shop-product-4-fb908777.jpg",
+    "searchQuery": "money maker graphic tee with hands holding cash",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/959804028",
+      "https://img1.wsimg.com/isteam/getty/2267026583",
+      "https://img1.wsimg.com/isteam/getty/2216003473",
+      "https://img1.wsimg.com/isteam/getty/1621262431",
+      "https://img1.wsimg.com/isteam/getty/1331281439"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-24T07:46:45.759Z",
+    "lastUpdated": "2026-09-06T14:24:46.677Z",
+    "alternativeGettyIds": [
+      "959804028",
+      "2267026583",
+      "2216003473",
+      "1621262431",
+      "1331281439"
+    ],
+    "orientations": "vertical",
+    "moods": "natural,warm",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-shop-product-4-fb908777.jpg": "woqvsorppy_1788704648153_file_eDUC1SbdBk.jpeg"
+    },
+    "uploadContentHash": "ee969941e45a07bdfb0e63cbcc3b06eabe63478844240b58b16dbfd5adbab42f",
+    "caption": "money maker graphic tee with hands holding cash"
+  },
+  "pages/shop/product-5": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-shop-product-5-d9b8c564.jpg",
+    "searchQuery": "person wearing wild west disco cowboys graphic tee",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2199609378",
+      "https://img1.wsimg.com/isteam/getty/910144948",
+      "https://img1.wsimg.com/isteam/getty/1548423773",
+      "https://img1.wsimg.com/isteam/getty/2217343428",
+      "https://img1.wsimg.com/isteam/getty/1364298668"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-24T07:46:46.866Z",
+    "lastUpdated": "2026-09-06T14:24:47.039Z",
+    "alternativeGettyIds": [
+      "2199609378",
+      "910144948",
+      "1548423773",
+      "2217343428",
+      "1364298668"
+    ],
+    "orientations": "vertical",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-shop-product-5-d9b8c564.jpg": "woqvsorppy_1788704648644_file_QZwff3pfb4.jpeg"
+    },
+    "uploadContentHash": "97fd5cf44a822fffa2ecdb35721b4f2e0ca34e85c629452afb5e47fd1f6d4f0c",
+    "caption": "person wearing wild west disco cowboys graphic tee"
+  },
+  "pages/shop/product-6": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-shop-product-6-e14189d9.jpg",
+    "searchQuery": "person wearing salty hair graphic tee",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1331281439",
+      "https://img1.wsimg.com/isteam/getty/2285901967",
+      "https://img1.wsimg.com/isteam/getty/2186602340",
+      "https://img1.wsimg.com/isteam/getty/2282471251",
+      "https://img1.wsimg.com/isteam/getty/2150987981"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-24T07:46:48.231Z",
+    "lastUpdated": "2026-09-06T14:24:46.865Z",
+    "alternativeGettyIds": [
+      "1331281439",
+      "2285901967",
+      "2186602340",
+      "2282471251",
+      "2150987981"
+    ],
+    "orientations": "vertical",
+    "moods": "natural,cool",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-shop-product-6-e14189d9.jpg": "woqvsorppy_1788704648153_file_vG8IPUSaGn.jpeg"
+    },
+    "uploadContentHash": "b32f17617d027a85511bb2d025ee8b4991b60f10abb968e7011706c1365218d5",
+    "caption": "person wearing salty hair graphic tee"
+  },
+  "pages/shop/product-7": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-shop-product-7-3af3e4c5.jpg",
+    "searchQuery": "woman wearing halloween graphic tee beach",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2252709667",
+      "https://img1.wsimg.com/isteam/getty/1384836498",
+      "https://img1.wsimg.com/isteam/getty/1170844405",
+      "https://img1.wsimg.com/isteam/getty/2196504054",
+      "https://img1.wsimg.com/isteam/getty/1175003604"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-24T07:46:49.940Z",
+    "lastUpdated": "2026-09-06T14:24:47.479Z",
+    "alternativeGettyIds": [
+      "2252709667",
+      "1384836498",
+      "1170844405",
+      "2196504054",
+      "1175003604"
+    ],
+    "orientations": "vertical",
+    "moods": "bold,cool",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-shop-product-7-3af3e4c5.jpg": "woqvsorppy_1788704648154_file_mblf7Ykd2a.jpeg"
+    },
+    "uploadContentHash": "7c597677dd78422347f6e35b144fc121a59bf46078ca57115f984cffdd766e6e",
+    "caption": "woman wearing halloween graphic tee beach"
+  },
+  "pages/shop/product-8": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-shop-product-8-65176a38.jpg",
+    "searchQuery": "woman wearing anime graphic tee beach",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1488497512",
+      "https://img1.wsimg.com/isteam/getty/2216003473",
+      "https://img1.wsimg.com/isteam/getty/2267026583",
+      "https://img1.wsimg.com/isteam/getty/1292338045",
+      "https://img1.wsimg.com/isteam/getty/1597536298"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-24T07:46:51.680Z",
+    "lastUpdated": "2026-09-06T14:24:47.963Z",
+    "alternativeGettyIds": [
+      "1488497512",
+      "2216003473",
+      "2267026583",
+      "1292338045",
+      "1597536298"
+    ],
+    "orientations": "vertical",
+    "moods": "warm,natural",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-shop-product-8-65176a38.jpg": "woqvsorppy_1788704648155_file_FHGSlv8E2x.jpeg"
+    },
+    "uploadContentHash": "5ae10def562f25a6bda11f5f2bdd9396feb68e75657f843c5561ffd754d1caa7",
+    "caption": "woman wearing anime graphic tee beach"
+  },
+  "pages/about/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1397238133",
+    "searchQuery": "fashion designer studio creative workspace minimal editorial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1257109595",
+      "https://img1.wsimg.com/isteam/getty/1182167062",
+      "https://img1.wsimg.com/isteam/getty/667431910",
+      "https://img1.wsimg.com/isteam/getty/944172896"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:50:10.797Z",
+    "lastUpdated": "2026-07-24T07:50:10.797Z",
+    "gettyId": "1397238133",
+    "alternativeGettyIds": [
+      "1257109595",
+      "1182167062",
+      "667431910",
+      "944172896"
+    ],
+    "requestedSize": {
+      "width": 1920,
+      "height": 700,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm,natural",
+    "graphicalStyles": "photography",
+    "minimumSize": "large"
+  },
+  "pages/about/story": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1311415818",
+    "searchQuery": "fashion apparel brand minimal studio portrait editorial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1151328085",
+      "https://img1.wsimg.com/isteam/getty/1498647703",
+      "https://img1.wsimg.com/isteam/getty/1307631656",
+      "https://img1.wsimg.com/isteam/getty/1462655622"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:50:30.831Z",
+    "lastUpdated": "2026-07-24T07:50:30.831Z",
+    "gettyId": "1311415818",
+    "alternativeGettyIds": [
+      "1151328085",
+      "1498647703",
+      "1307631656",
+      "1462655622"
+    ],
+    "orientations": "vertical",
+    "moods": "warm,natural",
+    "graphicalStyles": "photography",
+    "minimumSize": "large"
+  },
+  "pages/about/values": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2265024278",
+    "searchQuery": "organic cotton fabric texture close up natural material premium quality",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2245160333",
+      "https://img1.wsimg.com/isteam/getty/91762510",
+      "https://img1.wsimg.com/isteam/getty/2165562947",
+      "https://img1.wsimg.com/isteam/getty/2255189257"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T07:50:37.609Z",
+    "lastUpdated": "2026-07-24T07:50:37.609Z",
+    "gettyId": "2265024278",
+    "alternativeGettyIds": [
+      "2245160333",
+      "91762510",
+      "2165562947",
+      "2255189257"
+    ],
+    "orientations": "horizontal",
+    "moods": "natural,warm",
+    "graphicalStyles": "photography",
+    "minimumSize": "large"
+  },
+  "pages/collections/graphic-tees": {
+    "requestedSize": {
+      "width": 1200,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "sortOrder": "best_match",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1050368742",
+    "searchQuery": "Halloween fashion dark moody orange",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2233097137",
+      "https://img1.wsimg.com/isteam/getty/2186848394",
+      "https://img1.wsimg.com/isteam/getty/2236710074",
+      "https://img1.wsimg.com/isteam/getty/2223717903"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T08:10:34.610Z",
+    "lastUpdated": "2026-09-06T14:33:47.617Z",
+    "gettyId": "1050368742",
+    "alternativeGettyIds": [
+      "2233097137",
+      "2186848394",
+      "2236710074",
+      "2223717903"
+    ]
+  },
+  "pages/collections/oversized-tees": {
+    "requestedSize": {
+      "width": 1200,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "sortOrder": "best_match",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/943831016",
+    "searchQuery": "colorful summer beach ocean graphic t-shirt fashion editorial vibrant tropical",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1667376109",
+      "https://img1.wsimg.com/isteam/getty/1971874744",
+      "https://img1.wsimg.com/isteam/getty/2152334727",
+      "https://img1.wsimg.com/isteam/getty/2148545746"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T08:10:36.470Z",
+    "lastUpdated": "2026-09-06T14:34:59.157Z",
+    "gettyId": "943831016",
+    "alternativeGettyIds": [
+      "1667376109",
+      "1971874744",
+      "2152334727",
+      "2148545746"
+    ]
+  },
+  "pages/collections/hoodies": {
+    "requestedSize": {
+      "width": 1200,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "sortOrder": "best_match",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2078690465",
+    "searchQuery": "retro vintage graphic t-shirt fashion editorial nostalgic bold print model",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/517993313",
+      "https://img1.wsimg.com/isteam/getty/2265238147",
+      "https://img1.wsimg.com/isteam/getty/2214833341",
+      "https://img1.wsimg.com/isteam/getty/2206621955"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T08:10:40.209Z",
+    "lastUpdated": "2026-09-06T14:37:26.993Z",
+    "gettyId": "2078690465",
+    "alternativeGettyIds": [
+      "517993313",
+      "2265238147",
+      "2214833341",
+      "2206621955"
+    ]
+  },
+  "pages/collections/sweatshirts": {
+    "requestedSize": {
+      "width": 1200,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "sortOrder": "best_match",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2148268865",
+    "searchQuery": "bold colorful graphic t-shirt fashion editorial striking design model premium",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1674143707",
+      "https://img1.wsimg.com/isteam/getty/2057552337",
+      "https://img1.wsimg.com/isteam/getty/2150688019",
+      "https://img1.wsimg.com/isteam/getty/1327495280"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T08:10:42.091Z",
+    "lastUpdated": "2026-09-06T14:36:01.473Z",
+    "gettyId": "2148268865",
+    "alternativeGettyIds": [
+      "1674143707",
+      "2057552337",
+      "2150688019",
+      "1327495280"
+    ]
+  },
+  "pages/collections/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2257200598",
+    "searchQuery": "fashion apparel brand editorial campaign wide shot minimal dark",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2257254730",
+      "https://img1.wsimg.com/isteam/getty/1190464623",
+      "https://img1.wsimg.com/isteam/getty/2233371475",
+      "https://img1.wsimg.com/isteam/getty/2234067813"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-24T08:10:43.937Z",
+    "lastUpdated": "2026-07-24T08:10:43.937Z",
+    "gettyId": "2257200598",
+    "alternativeGettyIds": [
+      "2257254730",
+      "1190464623",
+      "2233371475",
+      "2234067813"
+    ],
+    "requestedSize": {
+      "width": 1920,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography",
+    "minimumSize": "large"
+  },
+  "pages/home/shop-product-1-sharks": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-shop-product-1-sharks-a3abd58d.jpg",
+    "searchQuery": "woman wearing colorful shark graphic tee",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-06T13:56:25.030Z",
+    "lastUpdated": "2026-09-06T13:56:25.030Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-shop-product-1-sharks-a3abd58d.jpg": "woqvsorppy_1788702888909_file_KdpL4IdJuf.jpeg"
+    },
+    "uploadContentHash": "2afde81413436da1303ae75bf123ad99d185c1a9eac2be230c675a37d75f813f",
+    "caption": "woman wearing colorful shark graphic tee"
+  },
+  "pages/home/shop-product-2-ghost": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-shop-product-2-ghost-71cd78bc.jpg",
+    "searchQuery": "woman wearing halloween ghost graphic tee beach",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-06T13:56:25.565Z",
+    "lastUpdated": "2026-09-06T13:56:25.565Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-shop-product-2-ghost-71cd78bc.jpg": "woqvsorppy_1788702888049_file_qRaXxOTgPx.jpeg"
+    },
+    "uploadContentHash": "3463e6797a4d9d586db908e32487793595b0277dad09dcbe53dfdb2faf77997d",
+    "caption": "woman wearing halloween ghost graphic tee beach"
+  },
+  "pages/home/shop-product-3-duck": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-shop-product-3-duck-8cf4e378.jpg",
+    "searchQuery": "woman wearing duck graphic tee sitting floor",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-06T13:56:26.365Z",
+    "lastUpdated": "2026-09-06T13:56:26.365Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-shop-product-3-duck-8cf4e378.jpg": "woqvsorppy_1788702888051_file_OXsLAHcXNZ.jpeg"
+    },
+    "uploadContentHash": "40b3d3846d77a367f1b2b3800fa4b74ec1e165a6512f35d85013f46d57582c35",
+    "caption": "woman wearing duck graphic tee sitting floor"
+  },
+  "pages/home/shop-product-4-halloween": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-shop-product-4-halloween-7c01c9f3.jpg",
+    "searchQuery": "person wearing halloween graphic tee selfie",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-06T13:56:26.825Z",
+    "lastUpdated": "2026-09-06T13:56:26.825Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-shop-product-4-halloween-7c01c9f3.jpg": "woqvsorppy_1788702888053_file_3HIWm9cCHv.jpeg"
+    },
+    "uploadContentHash": "d687cf534ab1a6ed1091b10755f4b2def03c2c6d7c594c296d7292c8b263f065",
+    "caption": "person wearing halloween graphic tee selfie"
+  },
+  "pages/home/shop-product-5-floral": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-shop-product-5-floral-53572338.jpg",
+    "searchQuery": "woman wearing floral graphic tee rooftop city",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-06T13:56:27.291Z",
+    "lastUpdated": "2026-09-06T13:56:27.291Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-shop-product-5-floral-53572338.jpg": "woqvsorppy_1788702888054_file_8Zt7SlxH1d.jpeg"
+    },
+    "uploadContentHash": "e0b24d51b7d9460b33fab67db06787f0c888bbf6b2588b62fee13b30a9b5666a",
+    "caption": "woman wearing floral graphic tee rooftop city"
+  },
+  "pages/home/shop-product-6-watching": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-shop-product-6-watching-d237d2e2.jpg",
+    "searchQuery": "woman wearing graphic tee at wooden doorway",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-06T13:56:27.780Z",
+    "lastUpdated": "2026-09-06T13:56:27.780Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-shop-product-6-watching-d237d2e2.jpg": "woqvsorppy_1788702888055_file_BcY2IS6TFC.jpeg"
+    },
+    "uploadContentHash": "5a9d47ddba499dfa7401e56b36e3df55750fe676a4a9b919d842722a173071f1",
+    "caption": "woman wearing graphic tee at wooden doorway"
+  }
+}

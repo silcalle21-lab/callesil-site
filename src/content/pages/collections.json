@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "label": "The Collections",
+    "headline": "Every Category. One Standard.",
+    "subheadline": "From Halloween and summer graphics to retro-inspired artwork and fan favourites — every CALLESIL collection is built around one principle: original design, bold color, and wearable art."
+  },
+  "collections": [
+    {
+      "id": "col-1",
+      "slug": "graphic-tees",
+      "name": "Halloween Collection",
+      "tagline": "Spooky season, wearable art.",
+      "description": "Spooky, playful and original graphic tees made for Halloween season.",
+      "details": [
+        "Spooky graphic designs",
+        "Playful Halloween artwork",
+        "Unisex fit",
+        "Available on Etsy"
+      ],
+      "badge": "",
+      "available": true
+    },
+    {
+      "id": "col-2",
+      "slug": "oversized-tees",
+      "name": "Summer & Ocean Collection",
+      "tagline": "Sun, salt and wearable art.",
+      "description": "Bright, breezy and full of life. Our Summer & Ocean collection captures the energy of warm days and coastal vibes — colorful graphics inspired by the sea, sunshine and everything in between.",
+      "details": [
+        "Ocean and summer-inspired graphics",
+        "Vibrant, colorful artwork",
+        "Unisex fit",
+        "Available on Etsy"
+      ],
+      "badge": "",
+      "available": true
+    },
+    {
+      "id": "col-3",
+      "slug": "hoodies",
+      "name": "Retro & Vintage Collection",
+      "tagline": "Old school cool, reimagined.",
+      "description": "Inspired by the golden eras of art, music and street culture. Our Retro & Vintage collection brings nostalgic graphic design back to life — bold prints, faded palettes and timeless attitude on every tee.",
+      "details": [
+        "Nostalgic retro-inspired graphics",
+        "Bold prints and faded palettes",
+        "Unisex fit",
+        "Available on Etsy"
+      ],
+      "badge": "",
+      "available": true
+    },
+    {
+      "id": "col-4",
+      "slug": "sweatshirts",
+      "name": "Best Sellers",
+      "tagline": "Fan favourites, for good reason.",
+      "description": "The designs our customers keep coming back for. Bold graphics, striking colours and artwork that turns heads — these are the CALLESIL pieces that started it all.",
+      "details": [
+        "Most-loved CALLESIL designs",
+        "Bold, colorful artwork",
+        "Unisex fit",
+        "Available on Etsy"
+      ],
+      "badge": "",
+      "available": true
+    },
+    {
+      "id": "col-5",
+      "slug": "future",
+      "name": "More to Come",
+      "tagline": "The collection grows.",
+      "description": "CALLESIL is always creating. New designs, new themes and new collections are always in the works. Follow us on Etsy to be the first to know when new drops arrive.",
+      "details": [
+        "New graphic designs",
+        "Seasonal collections",
+        "Limited drops",
+        "Follow on Etsy for updates"
+      ],
+      "badge": "In Development",
+      "available": false
+    }
+  ],
+  "cta": {
+    "heading": "Ready to shop?",
+    "subtext": "Browse all available pieces on our Etsy store — including new arrivals, limited drops, and custom order options.",
+    "button": "Visit the Etsy Store"
+  }
+}

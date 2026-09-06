@@ -1,0 +1,350 @@
+[
+  {
+    "id": "p-1",
+    "slug": "like-a-butterfly",
+    "name": "Like A Butterfly",
+    "category": "Graphic Tees",
+    "price": "",
+    "tag": "",
+    "shortDescription": "Bold and beautiful. A striking butterfly graphic tee full of color and personality.",
+    "description": "Like A Butterfly is one of CALLESIL's most expressive pieces. A vibrant, detailed butterfly graphic that brings color and life to every outfit. Designed for those who wear their personality proudly — this tee is anything but ordinary.",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Vibrant, colorful print",
+      "Unisex fit",
+      "Available in multiple sizes",
+      "Shop on Etsy for full availability"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Processed in 2–3 business days. Domestic 2–4 days, international 7–14 days.",
+    "etsyUrl": "https://www.etsy.com/shop/CALLESIL",
+    "reviews": [
+      {
+        "id": "r-1-1",
+        "author": "Mia K.",
+        "rating": 5,
+        "text": "Exactly what I hoped for. The fabric is genuinely premium — soft but structured. The graphic is clean and the fit is perfect. Already ordered a second one.",
+        "date": "March 2025"
+      },
+      {
+        "id": "r-1-2",
+        "author": "James T.",
+        "rating": 5,
+        "text": "I've been burned by 'premium' tees before. This one actually delivers. The print hasn't faded after a dozen washes, and the cut is flattering without being tight.",
+        "date": "January 2025"
+      },
+      {
+        "id": "r-1-3",
+        "author": "Lena R.",
+        "rating": 5,
+        "text": "Bought this as a gift and immediately ordered one for myself. This brand takes quality seriously.",
+        "date": "February 2025"
+      }
+    ]
+  },
+  {
+    "id": "p-2",
+    "slug": "stay-fresh-stay-bloom",
+    "name": "Stay Fresh Stay Bloom",
+    "category": "Summer & Ocean",
+    "price": "",
+    "tag": "",
+    "shortDescription": "Fresh florals and summer energy. A colorful graphic tee made for bright days.",
+    "description": "Stay Fresh Stay Bloom captures the spirit of summer in a single tee. Bright floral graphics, warm tones and a feel-good energy that goes with everything. Made for the days when you want your outfit to match your mood.",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Summer floral artwork",
+      "Unisex fit",
+      "Available in multiple sizes",
+      "Shop on Etsy for full availability"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Processed in 2–3 business days. Domestic 2–4 days, international 7–14 days.",
+    "etsyUrl": "https://www.etsy.com/shop/CALLESIL",
+    "reviews": [
+      {
+        "id": "r-2-1",
+        "author": "Sofia A.",
+        "rating": 5,
+        "text": "The colors on this tee are even better in person. So vibrant and the fabric feels great. Got so many compliments.",
+        "date": "April 2025"
+      },
+      {
+        "id": "r-2-2",
+        "author": "Noah B.",
+        "rating": 5,
+        "text": "Great quality, great design. The print is crisp and the fit is exactly right.",
+        "date": "March 2025"
+      }
+    ]
+  },
+  {
+    "id": "p-3",
+    "slug": "imperfect",
+    "name": "Imperfect",
+    "category": "Graphic Tees",
+    "price": "",
+    "tag": "",
+    "shortDescription": "Embrace the imperfect. A playful, original graphic tee with a message.",
+    "description": "Imperfect is a celebration of originality. A bold, expressive graphic that says what it means — wear it as a reminder that standing out is always the right choice. One of CALLESIL's most personal designs.",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Bold expressive artwork",
+      "Unisex fit",
+      "Available in multiple sizes",
+      "Shop on Etsy for full availability"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Processed in 2–3 business days. Domestic 2–4 days, international 7–14 days.",
+    "etsyUrl": "https://www.etsy.com/shop/CALLESIL",
+    "reviews": [
+      {
+        "id": "r-3-1",
+        "author": "Clara M.",
+        "rating": 5,
+        "text": "Love the message on this one. The graphic is really well done and the tee itself is super comfortable.",
+        "date": "May 2025"
+      },
+      {
+        "id": "r-3-2",
+        "author": "Ethan W.",
+        "rating": 5,
+        "text": "Really unique design. Got stopped on the street and asked where I got it. Quality is great.",
+        "date": "April 2025"
+      }
+    ]
+  },
+  {
+    "id": "p-4",
+    "slug": "money-maker",
+    "name": "Money Maker",
+    "category": "Graphic Tees",
+    "price": "",
+    "tag": "",
+    "shortDescription": "Bold, confident and unapologetic. A graphic tee that makes a statement.",
+    "description": "Money Maker is for those who own the room. A bold, confident graphic design that brings attitude and color to your wardrobe. One of CALLESIL's most eye-catching pieces — wear it and mean it.",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Bold statement artwork",
+      "Unisex fit",
+      "Available in multiple sizes",
+      "Shop on Etsy for full availability"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Processed in 2–3 business days. Domestic 2–4 days, international 7–14 days.",
+    "etsyUrl": "https://www.etsy.com/shop/CALLESIL",
+    "reviews": [
+      {
+        "id": "r-4-1",
+        "author": "Isabelle F.",
+        "rating": 5,
+        "text": "This tee is everything. The graphic is bold and the quality is fantastic. Easily my favourite CALLESIL piece.",
+        "date": "June 2025"
+      },
+      {
+        "id": "r-4-2",
+        "author": "Marcus D.",
+        "rating": 5,
+        "text": "Ordered the moment I saw it. The design is striking in person — even better than the photos.",
+        "date": "June 2025"
+      }
+    ]
+  },
+  {
+    "id": "p-5",
+    "slug": "wild-west-disco",
+    "name": "Wild West Disco",
+    "category": "Graphic Tees",
+    "price": "",
+    "tag": "",
+    "shortDescription": "Where the wild west meets disco fever. A fun, colorful graphic tee full of character.",
+    "description": "Wild West Disco is pure CALLESIL energy. A playful collision of cowboy culture and disco vibes — bold, colorful and impossible to ignore. This is the tee for the days when you want to bring the party with you.",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Playful, colorful artwork",
+      "Unisex fit",
+      "Available in multiple sizes",
+      "Shop on Etsy for full availability"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Processed in 2–3 business days. Domestic 2–4 days, international 7–14 days.",
+    "etsyUrl": "https://www.etsy.com/shop/CALLESIL",
+    "reviews": [
+      {
+        "id": "r-5-1",
+        "author": "Zara H.",
+        "rating": 5,
+        "text": "This is the most fun tee I own. The graphic is so original and the quality is great. Gets compliments every time.",
+        "date": "May 2025"
+      },
+      {
+        "id": "r-5-2",
+        "author": "Leo C.",
+        "rating": 5,
+        "text": "Great tee. The design is striking in person and the fit is perfect. Would definitely buy again.",
+        "date": "April 2025"
+      }
+    ]
+  },
+  {
+    "id": "p-6",
+    "slug": "salty-hair",
+    "name": "Salty Hair",
+    "category": "Summer & Ocean",
+    "price": "",
+    "tag": "",
+    "shortDescription": "Sun, salt and good vibes. A breezy ocean-inspired graphic tee for summer days.",
+    "description": "Salty Hair is for the beach lovers, the ocean dreamers and the sun chasers. A laid-back, colorful graphic tee that captures the feeling of salt in the air and sand between your toes. Summer in a tee.",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Ocean and summer-inspired artwork",
+      "Unisex fit",
+      "Available in multiple sizes",
+      "Shop on Etsy for full availability"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Processed in 2–3 business days. Domestic 2–4 days, international 7–14 days.",
+    "etsyUrl": "https://www.etsy.com/shop/CALLESIL",
+    "reviews": [
+      {
+        "id": "r-6-1",
+        "author": "Anna P.",
+        "rating": 5,
+        "text": "Perfect summer tee. The graphic is so fun and the fabric is really comfortable. Wore it all holiday.",
+        "date": "March 2025"
+      },
+      {
+        "id": "r-6-2",
+        "author": "Tom S.",
+        "rating": 5,
+        "text": "Love this design. Really captures that summer feeling. Great quality and fits perfectly.",
+        "date": "February 2025"
+      }
+    ]
+  },
+  {
+    "id": "p-7",
+    "slug": "haunted-season",
+    "name": "Haunted Season",
+    "category": "Halloween",
+    "price": "",
+    "tag": "",
+    "shortDescription": "Spooky, playful and original. A Halloween graphic tee made for the season.",
+    "description": "Haunted Season is CALLESIL's love letter to Halloween. A spooky, playful graphic design packed with personality — made for those who take their Halloween seriously. Bold, original and impossible to miss.",
+    "details": [
+      "Original CALLESIL Halloween design",
+      "Spooky and playful artwork",
+      "Unisex fit",
+      "Available in multiple sizes",
+      "Shop on Etsy for full availability"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Processed in 2–3 business days. Domestic 2–4 days, international 7–14 days.",
+    "etsyUrl": "https://www.etsy.com/shop/CALLESIL",
+    "reviews": [
+      {
+        "id": "r-7-1",
+        "author": "Kai N.",
+        "rating": 5,
+        "text": "Best Halloween tee I've ever owned. The graphic is so detailed and fun. Already planning to wear it every October.",
+        "date": "June 2025"
+      },
+      {
+        "id": "r-7-2",
+        "author": "Priya M.",
+        "rating": 5,
+        "text": "Got so many compliments wearing this. The design is really original and the quality is great.",
+        "date": "May 2025"
+      }
+    ]
+  },
+  {
+    "id": "p-8",
+    "slug": "sailor-dreams",
+    "name": "Sailor Dreams",
+    "category": "Summer & Ocean",
+    "price": "",
+    "tag": "",
+    "shortDescription": "Nautical vibes and ocean dreams. A colorful, artistic graphic tee for the sea lovers.",
+    "description": "Sailor Dreams takes you straight to the coast. A nautical-inspired graphic tee with a colorful, artistic twist — bold imagery, ocean tones and a design that feels like a postcard from the sea. For the dreamers and the wanderers.",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Nautical and ocean-inspired artwork",
+      "Unisex fit",
+      "Available in multiple sizes",
+      "Shop on Etsy for full availability"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Processed in 2–3 business days. Domestic 2–4 days, international 7–14 days.",
+    "etsyUrl": "https://www.etsy.com/shop/CALLESIL",
+    "reviews": [
+      {
+        "id": "r-8-1",
+        "author": "Hana L.",
+        "rating": 5,
+        "text": "Such a beautiful design. The colors are vibrant and the tee is really comfortable. Perfect for summer.",
+        "date": "April 2025"
+      },
+      {
+        "id": "r-8-2",
+        "author": "Finn O.",
+        "rating": 5,
+        "text": "Love the nautical vibe of this one. Really unique design and great quality. My new favourite.",
+        "date": "March 2025"
+      }
+    ]
+  }
+]
