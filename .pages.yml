@@ -1,7 +1,6 @@
 media:
   input: public/assets/images
-  output: /assets/images
-
+  output: /callesil-site/assets/images
 content:
   - name: products
     label: Products
