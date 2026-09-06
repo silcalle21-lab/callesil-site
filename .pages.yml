@@ -233,6 +233,10 @@ content:
             label: Button Text
             type: string
 
+          - name: image
+            label: New Arrivals Image
+            type: image
+
       - name: about
         label: About CALLESIL
         type: object
@@ -253,6 +257,10 @@ content:
             label: Button Text
             type: string
 
+          - name: image
+            label: About Image
+            type: image
+
       - name: reviews
         label: Homepage Reviews
         type: object
@@ -260,7 +268,6 @@ content:
           - name: label
             label: Section Title
             type: string
-
           - name: items
             label: Reviews
             type: object
@@ -305,3 +312,8 @@ content:
           - name: label
             label: Section Title
             type: string
+
+          - name: images
+            label: Instagram Images
+            type: image
+            list: true
