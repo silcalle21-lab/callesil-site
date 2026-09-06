@@ -173,6 +173,7 @@ export const schemas = {
     "id": z.string(),
     "slug": z.string(),
     "name": z.string(),
+    "image": z.string(),
     "category": z.string(),
     "price": z.string(),
     "tag": z.string(),
