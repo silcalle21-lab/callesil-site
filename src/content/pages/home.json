@@ -1,9 +1,9 @@
 {
   "hero": {
-    "headline": "Wear the Art. Make It Yours.",
+    "headline": "Wear the Art. Make It Yours",
     "subheadline": "Original graphic T-shirts inspired by summer, ocean life, Halloween, and playful creativity.",
     "cta": "SHOP ON ETSY",
-    "image": "/callesil-site/assets/images/premium-editorial-hero-image-for-a-graph-eCUZDc.png"  
+    "image": "/callesil-site/assets/images/premium-editorial-hero-image-for-a-graph-eCUZDc.png"
   },
   "shopOurDesigns": {
     "label": "Shop Our Designs",
@@ -17,31 +17,26 @@
       {
         "id": "sd-2",
         "name": "Floral Ghost Tee",
-        "image": "/airo-assets/images/pages/home/shop-product-2-ghost",
         "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
       },
       {
         "id": "sd-3",
         "name": "Duck Duck Tee",
-        "image": "/airo-assets/images/pages/home/shop-product-3-duck",
         "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
       },
       {
         "id": "sd-4",
         "name": "Halloween Boo Tee",
-        "image": "/airo-assets/images/pages/home/shop-product-4-halloween",
         "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
       },
       {
         "id": "sd-5",
         "name": "I'm Literally Just a Girl Tee",
-        "image": "/airo-assets/images/pages/home/shop-product-5-floral",
         "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
       },
       {
         "id": "sd-6",
         "name": "I Am Watching You Tee",
-        "image": "/airo-assets/images/pages/home/shop-product-6-watching",
         "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
       }
     ]
@@ -51,21 +46,15 @@
     "products": [
       {
         "id": "fc-1",
-        "name": "Like A Butterfly",
-        "tag": "",
-        "price": ""
+        "name": "Like A Butterfly"
       },
       {
         "id": "fc-2",
-        "name": "Haunted Season",
-        "tag": "",
-        "price": ""
+        "name": "Haunted Season"
       },
       {
         "id": "fc-3",
-        "name": "Salty Hair",
-        "tag": "",
-        "price": ""
+        "name": "Salty Hair"
       }
     ]
   },
@@ -75,19 +64,16 @@
       {
         "id": "bs-1",
         "name": "Iced Matcha Club Tee",
-        "image": "/airo-assets/images/pages/home/bestseller-1",
         "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
       },
       {
         "id": "bs-2",
         "name": "Christmas in July Tee",
-        "image": "/airo-assets/images/pages/home/bestseller-2",
         "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
       },
       {
         "id": "bs-3",
         "name": "Halloween Mummy Tee",
-        "image": "/airo-assets/images/pages/home/bestseller-3",
         "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
       }
     ]
