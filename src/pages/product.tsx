@@ -5,17 +5,7 @@ import { useParams, Link, Navigate } from "react-router";
 import { products } from 'virtual:content';
 import { ArrowLeft, ArrowUpRight, Star, Package, RefreshCw, Truck } from 'lucide-react';
 
-// Product image slots — keyed by product id
-const productSlots: Record<string, string> = {
-  'p-1': '/airo-assets/images/pages/shop/product-1',
-  'p-2': '/airo-assets/images/pages/shop/product-2',
-  'p-3': '/airo-assets/images/pages/shop/product-3',
-  'p-4': '/airo-assets/images/pages/shop/product-4',
-  'p-5': '/airo-assets/images/pages/shop/product-5',
-  'p-6': '/airo-assets/images/pages/shop/product-6',
-  'p-7': '/airo-assets/images/pages/shop/product-7',
-  'p-8': '/airo-assets/images/pages/shop/product-8'
-};
+
 const fadeUp = {
   hidden: {
     opacity: 0,
@@ -69,7 +59,7 @@ export default function ProductPage() {
   return <>
       {products.map(product => {
       const isActive = product.slug === slug;
-      const imgSrc = productSlots[product.id] ?? '/airo-assets/images/pages/shop/product-1';
+      const imgSrc = product.image ?? '';
       const pageUrl = `${site}/shop/${product.slug}`;
       const pageTitle = `${product.name} — CALLESIL`;
       const selectedSize = get(product.id);
