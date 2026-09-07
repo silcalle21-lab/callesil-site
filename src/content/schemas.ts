@@ -24,7 +24,7 @@ export const schemas = {
         "tag": z.string().optional(),
         "price": z.string().optional()
       }))
-    }),
+     }).optional(), 
     "bestSellers": z.object({
       "label": z.string(),
       "products": z.array(z.object({
