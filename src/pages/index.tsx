@@ -411,7 +411,7 @@ export default function HomePage() {
               {[1, 2, 3, 4, 5, 6].map(n => <motion.a key={n} href="#" aria-label={`CALLESIL Instagram post ${n}`} variants={fadeIn} className="block overflow-hidden group" style={{
               aspectRatio: '1/1'
             }}>
-                  <img src={home.instagram.images[n - 1]} alt={`CALLESIL editorial ${n}`} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.06]" loading="lazy" width={400} height={400} />                </motion.a>)}
+<img src={home.instagram.images?.[n - 1] ?? ""} alt={`CALLESIL editorial ${n}`} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.06]" loading="lazy" width={400} height={400} /> </motion.a>)}
             </div>
           </motion.div>
         </section>
