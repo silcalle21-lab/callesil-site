@@ -10,18 +10,20 @@
     "products": [
       {
         "id": "sd-1",
-        "name": "Colorful Sharks Tee",
-        "image": "/callesil-site/assets/images/ChatGPT Image Sep 5, 2026 at 05_22_34 PM.png",
+        "name": "Colorful Jellyfish Illustration T-Shirt | Vibrant Sea Life Tee",
+        "image": "/callesil-site/assets/images/Image 17.jpeg",
         "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
       },
       {
         "id": "sd-2",
-        "name": "Floral Ghost Tee",
+        "name": "Imperfect Floral Sketch Tee | Illustrated Flower Back Print",
+        "image": "/callesil-site/assets/images/Image 16.jpeg",
         "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
       },
       {
         "id": "sd-3",
-        "name": "Duck Duck Tee",
+        "name": "Mummy T Shirt",
+        "image": "/callesil-site/assets/images/Image 7.jpeg",
         "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
       },
       {
