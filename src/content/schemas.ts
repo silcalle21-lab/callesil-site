@@ -12,7 +12,7 @@ export const schemas = {
       "products": z.array(z.object({
         "id": z.string(),
         "name": z.string(),
-        "image": z.string(),
+        "image": z.string().optional(),
         "etsyUrl": z.string()
       }))
     }),
@@ -30,7 +30,7 @@ export const schemas = {
       "products": z.array(z.object({
         "id": z.string(),
         "name": z.string(),
-        "image": z.string(),
+        "image": z.string().optional(),
         "etsyUrl": z.string()
       }))
     }),
