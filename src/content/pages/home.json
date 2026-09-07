@@ -47,21 +47,7 @@
     ]
   },
   "featuredCollection": {
-    "label": "Featured Collection",
-    "products": [
-      {
-        "id": "fc-1",
-        "name": "sila sila "
-      },
-      {
-        "id": "fc-2",
-        "name": "Haunted Season"
-      },
-      {
-        "id": "fc-3",
-        "name": "Salty Hair"
-      }
-    ]
+    "label": "Featured Collection"
   },
   "bestSellers": {
     "label": "Best Sellers",
