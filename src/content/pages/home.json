@@ -46,9 +46,7 @@
       }
     ]
   },
-  "featuredCollection": {
-    "label": "Featured Collection"
-  },
+  
   "bestSellers": {
     "label": "Best Sellers",
     "products": [
