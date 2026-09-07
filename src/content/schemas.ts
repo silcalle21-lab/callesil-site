@@ -21,8 +21,8 @@ export const schemas = {
       "products": z.array(z.object({
         "id": z.string(),
         "name": z.string(),
-        "tag": z.string(),
-        "price": z.string()
+        "tag": z.string().optional(),
+        "price": z.string().optional()
       }))
     }),
     "bestSellers": z.object({
