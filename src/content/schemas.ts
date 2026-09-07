@@ -16,15 +16,7 @@ export const schemas = {
         "etsyUrl": z.string()
       }))
     }),
-    "featuredCollection": z.object({
-      "label": z.string(),
-      "products": z.array(z.object({
-        "id": z.string(),
-        "name": z.string(),
-        "tag": z.string().optional(),
-        "price": z.string().optional()
-      }))
-     }).optional(), 
+  
     "bestSellers": z.object({
       "label": z.string(),
       "products": z.array(z.object({
