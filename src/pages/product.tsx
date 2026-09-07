@@ -296,7 +296,7 @@ export default function ProductPage() {
                     <>
                       <motion.div variants={stagger} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-10">
                         {products.map(rel => {
-                      const relImg = productSlots[rel.id] ?? '/airo-assets/images/pages/shop/product-1';
+                      const relImg = rel.image ?? '';
                       const showAsRelated = rel.category === product.category && rel.id !== product.id;
                       return <motion.article key={rel.id} variants={fadeUp} className={`group ${showAsRelated ? '' : 'hidden'}`} aria-hidden={!showAsRelated}>
                               <Link to={`/shop/${rel.slug}`} className="block overflow-hidden relative" style={{
