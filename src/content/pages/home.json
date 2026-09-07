@@ -68,19 +68,21 @@
     "products": [
       {
         "id": "bs-1",
-        "name": "Iced Matcha Club Tee",
-        "image": "/callesil-site/assets/images/2.png",
-        "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
+        "name": "Colorful Patterned Sharks T-Shirt | Nautical Sea Life Striped Design",
+        "image": "/callesil-site/assets/images/Image.jpeg",
+        "etsyUrl": "https://callesil.etsy.com/listing/4539969822"
       },
       {
         "id": "bs-2",
-        "name": "Christmas in July Tee",
-        "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
+        "name": "Christmas in July T-Shirt: Unisex Summer Holiday Tee",
+        "image": "/callesil-site/assets/images/Image 6.jpeg",
+        "etsyUrl": "https://callesil.etsy.com/listing/4349049465"
       },
       {
         "id": "bs-3",
-        "name": "Halloween Mummy Tee",
-        "etsyUrl": "https://www.etsy.com/shop/CALLESIL"
+        "name": "Minimal Script 'S' trend T-Shirt | Small Chest Logo",
+        "image": "/callesil-site/assets/images/Image 1.jpeg",
+        "etsyUrl": "https://callesil.etsy.com/listing/4538921431"
       }
     ]
   },
