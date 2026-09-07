@@ -317,11 +317,11 @@ content:
             label: Instagram Images
             type: image
             list: true
-              - name: shop
-    label: Shop Page
-    type: file
-    path: src/content/pages/shop.json
-    format: json
+    - name: shop
+      label: Shop Page
+      type: file
+      path: src/content/pages/shop.json
+      format: json
 
     fields:
       - name: hero
