@@ -2,7 +2,7 @@ import { Helmet } from '@dr.pogodin/react-helmet';
 import { motion } from 'motion/react';
 import { useState } from 'react';
 import { Link } from "react-router";
-import { shop } from 'virtual:content';
+import { shop, products } from 'virtual:content';
 const ETSY_URL = 'https://www.etsy.com/shop/CALLESIL';
 const fadeUp = {
   hidden: {
@@ -28,10 +28,10 @@ const stagger = {
 };
 
 // Product image slots in order
-const productSlots = ['/airo-assets/images/pages/shop/product-1', '/airo-assets/images/pages/shop/product-2', '/airo-assets/images/pages/shop/product-3', '/airo-assets/images/pages/shop/product-4', '/airo-assets/images/pages/shop/product-5', '/airo-assets/images/pages/shop/product-6', '/airo-assets/images/pages/shop/product-7', '/airo-assets/images/pages/shop/product-8'];
+
 export default function ShopPage() {
   const [activeFilter, setActiveFilter] = useState('All');
-  const filteredProducts = activeFilter === 'All' ? shop.products : shop.products.filter(p => p.category === activeFilter);
+  const filteredProducts = activeFilter === 'All' ? products : products.filter(p => p.category === activeFilter); 
   const site = 'https://callesilcallelis.com';
   const url = `${site}/shop`;
   const title = 'Shop — CALLESIL Premium Graphic T-Shirts';
@@ -116,25 +116,9 @@ export default function ShopPage() {
             </p>
 
             <motion.div key={activeFilter} initial="hidden" animate="visible" variants={stagger} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-6 gap-y-14">
-              {/* Product 1 */}
-              {filteredProducts.some(p => p.id === 'p-1') && <ProductCard product={shop.products[0]} imgSrc={productSlots[0]} etsy={ETSY_URL} />}
-              {/* Product 2 */}
-              {filteredProducts.some(p => p.id === 'p-2') && <ProductCard product={shop.products[1]} imgSrc={productSlots[1]} etsy={ETSY_URL} />}
-              {/* Product 3 */}
-              {filteredProducts.some(p => p.id === 'p-3') && <ProductCard product={shop.products[2]} imgSrc={productSlots[2]} etsy={ETSY_URL} />}
-              {/* Product 4 */}
-              {filteredProducts.some(p => p.id === 'p-4') && <ProductCard product={shop.products[3]} imgSrc={productSlots[3]} etsy={ETSY_URL} />}
-              {/* Product 5 */}
-              {filteredProducts.some(p => p.id === 'p-5') && <ProductCard product={shop.products[4]} imgSrc={productSlots[4]} etsy={ETSY_URL} />}
-              {/* Product 6 */}
-              {filteredProducts.some(p => p.id === 'p-6') && <ProductCard product={shop.products[5]} imgSrc={productSlots[5]} etsy={ETSY_URL} />}
-              {/* Product 7 */}
-              {filteredProducts.some(p => p.id === 'p-7') && <ProductCard product={shop.products[6]} imgSrc={productSlots[6]} etsy={ETSY_URL} />}
-              {/* Product 8 */}
-              {filteredProducts.some(p => p.id === 'p-8') && <ProductCard product={shop.products[7]} imgSrc={productSlots[7]} etsy={ETSY_URL} />}
+{filteredProducts.map(product => <ProductCard key={product.id} product={product} imgSrc={product.image ?? ""} etsy={product.etsyUrl} />)}
             </motion.div>
-
-            {/* Empty state */}
+  
             {filteredProducts.length === 0 && <motion.div initial={{
             opacity: 0
           }} animate={{
@@ -177,12 +161,14 @@ export default function ShopPage() {
 
 // ── Product Card Component ────────────────────────────────────────────────────
 interface ProductCardProps {
-  product: {
+  product: { 
+
     id: string;
+    slug: string;
     name: string;
     category: string;
-    price: string;
-    tag: string;
+    price?: string;
+    tag?: string;
     description: string;
     sizes: string[];
   };
@@ -190,24 +176,14 @@ interface ProductCardProps {
   etsy: string;
 }
 
-// Slug map — matches content/data/products.json slugs
-const productSlugs: Record<string, string> = {
-  'p-1': 'like-a-butterfly',
-  'p-2': 'stay-fresh-stay-bloom',
-  'p-3': 'imperfect',
-  'p-4': 'money-maker',
-  'p-5': 'wild-west-disco',
-  'p-6': 'salty-hair',
-  'p-7': 'haunted-season',
-  'p-8': 'sailor-dreams'
-};
+
 function ProductCard({
   product,
   imgSrc,
   etsy
 }: ProductCardProps) {
   const [hovered, setHovered] = useState(false);
-  const slug = productSlugs[product.id];
+  const slug = product.slug;
   const internalHref = slug ? `/shop/${slug}` : null;
   return <motion.article variants={{
     hidden: {
