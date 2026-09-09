@@ -338,5 +338,21 @@
         "date": "March 2025"
       }
     ]
+  },
+  {
+    "id": "p-9",
+    "name": "Haunted Cake Halloween T-Shirt | Black Cat, Pumpkin, Witch Hat",
+    "image": "/callesil-site/assets/images/2-1.png",
+    "category": "halloween ",
+    "shortDescription": "Vintage Halloween tee with a haunted cake, black cat, pumpkin, and spooky charm.",
+    "description": "Step into spooky season with the Haunted Patisserie T-Shirt — a vintage-inspired Halloween design where sweet meets spooky. Featuring an elaborate haunted cake, mysterious black cat, pumpkin, bats, and charming witchy details, this graphic tee brings a playful bakery twist to classic Halloween style.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "shipping": "Processed in 2–3 business days. Domestic 2–4 days, international 7–14 days.",
+    "etsyUrl": "https://callesil.etsy.com/listing/4571834523"
   }
 ]
