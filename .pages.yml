@@ -323,10 +323,10 @@ content:
       path: src/content/pages/shop.json
       format: json
 
-    fields:
-      - name: hero
-        label: Shop Hero
-        type: object
+      fields:
+       - name: hero
+         label: Shop Hero
+         type: object
         fields:
           - name: label
             label: Small Title
