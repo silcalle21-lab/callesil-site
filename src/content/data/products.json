@@ -372,5 +372,40 @@
         "date": "September 2026"
       }
     ]
+  },
+  {
+    "id": "p-10",
+    "slug": "yee-claw-lobster-t-shirt",
+    "name": "Yee Claw Lobster T-Shirt | Funny Western Lobster Graphic Tee",
+    "image": "/callesil-site/assets/images/Image-2.jpeg",
+    "category": "Graphic Tees",
+    "shortDescription": "Yee Claw! A fun western-inspired lobster tee for good vibes and beach lovers.\n",
+    "description": "Bring the coastal cowboy vibes with the Yee Claw Lobster T-Shirt! This playful and eye-catching design features a cool lobster with a cowboy hat, perfect for beach days, summer adventures, and anyone who loves a bit of fun in their wardrobe.",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Fun western and beach-inspired artwork",
+      "Unisex fit",
+      "Available in multiple sizes",
+      "Shop on Etsy for full availability"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Processed in 2–3 business days. Domestic 2–4 days, international 7–14 days.",
+    "etsyUrl": "https://callesil.etsy.com/listing/4567406781",
+    "reviews": [
+      {
+        "id": "r-10-1",
+        "author": "CALLESIL Customer",
+        "rating": 5,
+        "text": "Love this design! So fun and unique.",
+        "date": "September 2026"
+      }
+    ]
   }
 ]
