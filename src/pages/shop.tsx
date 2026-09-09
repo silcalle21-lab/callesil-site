@@ -72,7 +72,7 @@ export default function ShopPage() {
         height: '55vh',
         minHeight: '380px'
       }}>
-       <img src="/callesil-site/assets/images/shop-hero.png" alt="CALLESIL shop collection editorial" className="absolute inset-0 w-full h-full object-cover object-center" loading="eager" fetchPriority="high" width={1920} height={600} />
+       <img src="/callesil-site/assets/images/shop-hero-2.png" alt="CALLESIL shop collection editorial" className="absolute inset-0 w-full h-full object-cover object-center" loading="eager" fetchPriority="high" width={1920} height={600} />
           <div className="absolute inset-0 pointer-events-none" style={{
           background: 'linear-gradient(to bottom, rgba(10,10,10,0.25) 0%, rgba(10,10,10,0.65) 100%)'
         }} />
