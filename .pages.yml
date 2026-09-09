@@ -316,17 +316,17 @@ content:
           - name: images
             label: Instagram Images
             type: image
-            list: true
-    - name: shop
-      label: Shop Page
-      type: file
-      path: src/content/pages/shop.json
-      format: json
+            list: true 
+   - name: shop
+    label: Shop Page
+    type: file
+    path: src/content/pages/shop.json
+    format: json
 
-      fields:
-       - name: hero
-         label: Shop Hero
-         type: object
+    fields:
+      - name: hero
+        label: Shop Hero
+        type: object
         fields:
           - name: label
             label: Small Title
