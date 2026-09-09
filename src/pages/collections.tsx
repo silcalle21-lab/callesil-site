@@ -66,7 +66,7 @@ export default function CollectionsPage() {
           style={{ height: '55vh', minHeight: '380px' }}
         >
           <img
-            src="/airo-assets/images/pages/collections/hero"
+            src="/callesil-site/assets/images/collections-hero.png"
             alt="CALLESIL collections — premium apparel editorial"
             className="absolute inset-0 w-full h-full object-cover object-center"
             loading="eager"
