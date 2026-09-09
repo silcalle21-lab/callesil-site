@@ -338,5 +338,30 @@
         "date": "March 2025"
       }
     ]
+  },
+  {
+    "id": "p-9",
+    "slug": "haunted-cake-halloween-t-shirt",
+    "name": "Haunted Cake Halloween T-Shirt | Black Cat, Pumpkin, Witch Hat",
+    "image": "/callesil-site/assets/images/Untitled design-71.png",
+    "category": "Halloween",
+    "shortDescription": "A spooky-cute Halloween tee featuring a haunted cake, black cat, pumpkins, and witchy vibes.\n",
+    "description": "Sweet, spooky, and made for Halloween. This playful graphic tee combines a haunted cake, black cat, pumpkins, and witchy details for a fun seasonal look.\n",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Playful Halloween-inspired artwork",
+      " Unisex fit",
+      "Available in multiple sizes",
+      "Shop on Etsy for full availability"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Processed in 2–3 business days. Domestic 2–4 days, international 7–14 days.",
+    "etsyUrl": "https://callesil.etsy.com/listing/4571834523"
   }
 ]
