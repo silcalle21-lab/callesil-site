@@ -3,7 +3,7 @@
     "headline": "Wear the Art. Make It Yours",
     "subheadline": "Original graphic T-shirts inspired by summer, ocean life, Halloween, and playful creativity.",
     "cta": "SHOP ON ETSY",
-    "image": "/callesil-site/assets/images/home-hero.png" 
+    "image": "./assets/images/home-hero.png" 
   },
   "shopOurDesigns": {
     "label": "Shop Our Designs",
@@ -11,37 +11,37 @@
       {
         "id": "sd-1",
         "name": "Colorful Jellyfish Illustration T-Shirt | Vibrant Sea Life Tee",
-        "image": "/callesil-site/assets/images/Image 17.jpeg",
+        "image": "./assets/images/Image 17.jpeg",
         "etsyUrl": "https://callesil.etsy.com/listing/4567381635"
       },
       {
         "id": "sd-2",
         "name": "Imperfect Floral Sketch Tee | Illustrated Flower Back Print",
-        "image": "/callesil-site/assets/images/Image 16.jpeg",
+        "image": "./assets/images/Image 16.jpeg",
         "etsyUrl": "https://callesil.etsy.com/listing/4524956494"
       },
       {
         "id": "sd-3",
         "name": "Mummy T Shirt",
-        "image": "/callesil-site/assets/images/Image 7.jpeg",
+        "image": "./assets/images/Image 7.jpeg",
         "etsyUrl": "https://callesil.etsy.com/listing/4345691093"
       },
       {
         "id": "sd-4",
         "name": "Ribcage with Flowers Like a Butterfly T-Shirt | Floral Anatomical Tee",
-        "image": "/callesil-site/assets/images/Image 14.jpeg",
+        "image": "./assets/images/Image 14.jpeg",
         "etsyUrl": "https://callesil.etsy.com/listing/4536298626"
       },
       {
         "id": "sd-5",
         "name": "Money Maker Graphic Hands Folding Cash T-Shirt | Streetwear",
-        "image": "/callesil-site/assets/images/Image 15.jpeg",
+        "image": "./assets/images/Image 15.jpeg",
         "etsyUrl": "https://callesil.etsy.com/listing/4524958186"
       },
       {
         "id": "sd-6",
         "name": "Wild West Disco Cowboys T-Shirt | Cowboy Disco Globe Graphic",
-        "image": "/callesil-site/assets/images/Image 13.jpeg",
+        "image": "./assets/images/Image 13.jpeg",
         "etsyUrl": "https://callesil.etsy.com/listing/4538934678"
       }
     ]
@@ -52,19 +52,19 @@
       {
         "id": "bs-1",
         "name": "Colorful Patterned Sharks T-Shirt | Nautical Sea Life Striped Design",
-        "image": "/callesil-site/assets/images/Image.jpeg",
+        "image": "./assets/images/Image.jpeg",
         "etsyUrl": "https://callesil.etsy.com/listing/4539969822"
       },
       {
         "id": "bs-2",
         "name": "Christmas in July T-Shirt: Unisex Summer Holiday Tee",
-        "image": "/callesil-site/assets/images/Image 6.jpeg",
+        "image": "./assets/images/Image 6.jpeg",
         "etsyUrl": "https://callesil.etsy.com/listing/4349049465"
       },
       {
         "id": "bs-3",
         "name": "Minimal Script 'S' trend T-Shirt | Small Chest Logo",
-        "image": "/callesil-site/assets/images/Image 1.jpeg",
+        "image": "./assets/images/Image 1.jpeg",
         "etsyUrl": "https://callesil.etsy.com/listing/4538921431"
       }
     ]
@@ -74,14 +74,14 @@
     "headline": "Spooky Season Is Here",
     "subtext": "Playful, bold and spooky graphic tees made for Halloween.",
     "cta": "SHOP HALLOWEEN ON ETSY",
-    "image": "/callesil-site/assets/images/ChatGPT Image Sep 6, 2026 at 09_30_14 PM.png"
+    "image": "./assets/images/ChatGPT Image Sep 6, 2026 at 09_30_14 PM.png"
   },
   "about": {
     "label": "About CALLESIL",
     "headline": "Made to Stand Out",
     "body": "CALLESIL is all about turning creativity into wearable art. From colorful summer and ocean-inspired graphics to playful Halloween designs, every piece is created to bring personality, color, and originality to your everyday style.",
     "cta": "Discover CALLESIL",
-    "image": "/callesil-site/assets/images/ChatGPT Image Sep 9, 2026 at 12_09_20 PM.png"
+    "image": "./assets/images/ChatGPT Image Sep 9, 2026 at 12_09_20 PM.png"
   },
   "reviews": {
     "label": "What They're Saying",
