@@ -7,7 +7,7 @@ const ETSY_URL = 'https://www.etsy.com/shop/CALLESIL';
 
 // Image slots in collection order
 const collectionImages = [
-  '/airo-assets/images/pages/collections/graphic-tees',
+  '/callesil-site/assets/images/halloween-collection.png',
   '/airo-assets/images/pages/collections/oversized-tees',
   '/airo-assets/images/pages/collections/hoodies',
   '/airo-assets/images/pages/collections/sweatshirts',
