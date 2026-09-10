@@ -11,7 +11,7 @@ const collectionImages = [
   '/callesil-site/assets/images/summer-ocean-collection.png',
   '/callesil-site/assets/images/retro-vintage-collection.png',
   '/callesil-site/assets/images/best-sellers-collection.png',
-  null, // "More to Come" — no image
+  '/callesil-site/assets/images/more-to-come.png',
 ];
 
 const fadeUp = {
