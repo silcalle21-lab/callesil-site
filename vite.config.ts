@@ -46,7 +46,7 @@ if (corsOrigins.length === 0) {
 }
 
 export default defineConfig(({ mode }) => ({
-  base: "/callesil-site/",
+  base: "./",
   envPrefix: ["VITE_", "SITE_"],
 
   plugins: [
