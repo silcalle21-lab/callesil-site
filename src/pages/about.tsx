@@ -235,7 +235,7 @@ export default function AboutPage() {
         {/* ── FABRIC / TEXTURE IMAGE BREAK ─────────────────────────────────── */}
         <div className="w-full overflow-hidden" style={{ height: '40vh', minHeight: '260px' }}>
           <motion.img
-            src="/airo-assets/images/pages/about/values"
+            src="/callesil-site/assets/images/about-organic-cotton.png"
             alt="Premium organic cotton — the material behind every CALLESIL piece"
             className="w-full h-full object-cover"
             loading="lazy"
