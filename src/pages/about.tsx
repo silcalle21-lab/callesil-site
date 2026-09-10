@@ -56,7 +56,7 @@ export default function AboutPage() {
           style={{ height: '60vh', minHeight: '420px' }}
         >
           <img
-            src="/airo-assets/images/pages/about/hero"
+            src="/callesil-site/assets/images/about-hero.png"
             alt="CALLESIL studio — where every piece begins"
             className="absolute inset-0 w-full h-full object-cover object-center"
             loading="eager"
