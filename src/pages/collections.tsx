@@ -9,7 +9,7 @@ const ETSY_URL = 'https://www.etsy.com/shop/CALLESIL';
 const collectionImages = [
   '/callesil-site/assets/images/halloween-collection.png',
   '/callesil-site/assets/images/summer-ocean-collection.png',
-  '/airo-assets/images/pages/collections/hoodies',
+  '/callesil-site/assets/images/retro-vintage-collection.png',
   '/airo-assets/images/pages/collections/sweatshirts',
   null, // "More to Come" — no image
 ];
