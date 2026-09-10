@@ -10,7 +10,7 @@ const collectionImages = [
   '/callesil-site/assets/images/halloween-collection.png',
   '/callesil-site/assets/images/summer-ocean-collection.png',
   '/callesil-site/assets/images/retro-vintage-collection.png',
-  '/airo-assets/images/pages/collections/sweatshirts',
+  '/callesil-site/assets/images/best-sellers-collection.png',
   null, // "More to Come" — no image
 ];
 
