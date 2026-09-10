@@ -56,7 +56,7 @@ export default function AboutPage() {
           style={{ height: '60vh', minHeight: '420px' }}
         >
           <img
-            src="/callesil-site/assets/images/about-hero.png"
+            src="./assets/images/about-hero.png"
             alt="CALLESIL studio — where every piece begins"
             className="absolute inset-0 w-full h-full object-cover object-center"
             loading="eager"
@@ -119,7 +119,7 @@ export default function AboutPage() {
               style={{ aspectRatio: '4/5' }}
             >
               <img
-                src="/callesil-site/assets/images/about-creative-process.png"
+                src="./assets/images/about-creative-process.png"
                 alt="CALLESIL — the creative process"
                 className="w-full h-full object-cover"
                 loading="lazy"
@@ -235,7 +235,7 @@ export default function AboutPage() {
         {/* ── FABRIC / TEXTURE IMAGE BREAK ─────────────────────────────────── */}
         <div className="w-full overflow-hidden" style={{ height: '40vh', minHeight: '260px' }}>
           <motion.img
-            src="/callesil-site/assets/images/about-organic-cotton.png"
+            src="./assets/images/about-organic-cotton.png"
             alt="Premium organic cotton — the material behind every CALLESIL piece"
             className="w-full h-full object-cover"
             loading="lazy"
