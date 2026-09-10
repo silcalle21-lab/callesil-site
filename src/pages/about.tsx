@@ -119,7 +119,7 @@ export default function AboutPage() {
               style={{ aspectRatio: '4/5' }}
             >
               <img
-                src="/airo-assets/images/pages/about/story"
+                src="/callesil-site/assets/images/about-creative-process.png"
                 alt="CALLESIL — the creative process"
                 className="w-full h-full object-cover"
                 loading="lazy"
