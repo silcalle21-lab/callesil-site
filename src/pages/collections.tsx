@@ -8,7 +8,7 @@ const ETSY_URL = 'https://www.etsy.com/shop/CALLESIL';
 // Image slots in collection order
 const collectionImages = [
   '/callesil-site/assets/images/halloween-collection.png',
-  '/airo-assets/images/pages/collections/oversized-tees',
+  '/callesil-site/assets/images/summer-ocean-collection.png',
   '/airo-assets/images/pages/collections/hoodies',
   '/airo-assets/images/pages/collections/sweatshirts',
   null, // "More to Come" — no image
