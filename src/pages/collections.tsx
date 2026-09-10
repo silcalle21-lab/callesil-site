@@ -7,11 +7,11 @@ const ETSY_URL = 'https://www.etsy.com/shop/CALLESIL';
 
 // Image slots in collection order
 const collectionImages = [
-  '/callesil-site/assets/images/halloween-collection.png',
-  '/callesil-site/assets/images/summer-ocean-collection.png',
-  '/callesil-site/assets/images/retro-vintage-collection.png',
-  '/callesil-site/assets/images/best-sellers-collection.png',
-  '/callesil-site/assets/images/more-to-come.png',
+  './assets/images/halloween-collection.png',
+  './assets/images/summer-ocean-collection.png',
+  './assets/images/retro-vintage-collection.png',
+  './assets/images/best-sellers-collection.png',
+  './assets/images/more-to-come.png',
 ];
 
 const fadeUp = {
@@ -66,7 +66,7 @@ export default function CollectionsPage() {
           style={{ height: '55vh', minHeight: '380px' }}
         >
           <img
-            src="/callesil-site/assets/images/collections-hero.png"
+            src="./assets/images/collections-hero.png"
             alt="CALLESIL collections — premium apparel editorial"
             className="absolute inset-0 w-full h-full object-cover object-center"
             loading="eager"
