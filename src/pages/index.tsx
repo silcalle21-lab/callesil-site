@@ -396,7 +396,7 @@ export default function HomePage() {
         </section>
 
         {/* ── INSTAGRAM GALLERY ────────────────────────────────────────────── */}
-        <section className="bg-white py-20 md:py-24 px-6 md:px-16 lg:px-24">
+        <section className="hidden bg-white py-20 md:py-24 px-6 md:px-16 lg:px-24">
           <motion.div initial="hidden" whileInView="visible" viewport={{
           once: true,
           margin: '-80px'
