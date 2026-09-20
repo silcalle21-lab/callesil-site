@@ -441,5 +441,40 @@
         "date": "September 2026"
       }
     ]
+  },
+  {
+    "id": "p-12",
+    "slug": "take-it-easy",
+    "name": "Take It Easy T-Shirt | Retro Smiley Graphic Tee",
+    "image": "/callesil-site/assets/images/take it easy .jpg",
+    "category": "Graphic Tees",
+    "shortDescription": "Good vibes, retro curves and a melting smile. A playful graphic tee made for taking life a little less seriously.",
+    "description": "Take It Easy is a playful reminder to slow down and enjoy the moment. Featuring bold retro lettering and a melting smiley graphic, this tee brings an easygoing vintage feel with a bright CALLESIL twist. Fun, effortless and made to add a little good energy to everyday looks.",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Retro-inspired typography",
+      "Playful melting smiley artwork",
+      "Classic unisex fit",
+      "Available on Etsy"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Shipping and delivery details are available on Etsy.",
+    "etsyUrl": "https://callesil.etsy.com/listing/4578986504",
+    "reviews": [
+      {
+        "id": "rv-3",
+        "author": "Jessica K.",
+        "rating": 4,
+        "text": "Exactly the kind of vintage graphic tee I was looking for. Fun, simple and different.",
+        "date": "September 2026"
+      }
+    ]
   }
 ]
