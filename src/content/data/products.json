@@ -511,5 +511,39 @@
         "date": "September 2026"
       }
     ]
+  },
+  {
+    "id": "p-14",
+    "slug": "sweet-escape-cherry",
+    "name": "Sweet Escape T-Shirt | Retro Cherry Graphic Tee",
+    "image": "/callesil-site/assets/images/3-1.png",
+    "category": "Graphic Tees",
+    "shortDescription": "Sweet, bold and a little nostalgic. A statement cherry graphic tee with retro typography and romantic ribbon details.",
+    "description": "Sweet Escape blends bold retro typography with glossy cherries and a delicate ribbon detail for a playful vintage look. Romantic, vibrant and effortlessly cool, this graphic tee is made to bring a little sweetness and personality to everyday outfits.",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Retro cherry-inspired artwork",
+      "Bold vintage typography",
+      "Classic unisex fit",
+      "Available on Etsy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Shipping and delivery details are available on Etsy.",
+    "etsyUrl": "https://callesil.etsy.com/listing/4580544786",
+    "reviews": [
+      {
+        "id": "rv-1",
+        "author": "Olivia M.",
+        "rating": 5,
+        "text": "The cherry design is gorgeous in person. I love the retro lettering and the little ribbon detail.",
+        "date": "September 2026"
+      }
+    ]
   }
 ]
