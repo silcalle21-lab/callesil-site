@@ -579,5 +579,39 @@
         "date": "September 2026"
       }
     ]
+  },
+  {
+    "id": "p-16",
+    "slug": "olive-oclock",
+    "name": "Olive O’Clock T-Shirt | Retro Martini & Olive Graphic Tee",
+    "image": "/callesil-site/assets/images/olive2tshirt.png",
+    "category": "Graphic Tees",
+    "shortDescription": "It’s always Olive O’Clock. A playful retro graphic tee featuring bold typography, juicy olives and a classic martini glass.",
+    "description": "Olive O’Clock brings aperitivo energy to everyday style. Featuring hand-drawn olives, a classic martini glass and expressive retro typography, this graphic tee mixes Mediterranean inspiration with CALLESIL’s playful vintage aesthetic. Bold, colorful and made for those who know it’s always time for a little fun.",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Retro martini and olive artwork",
+      "Bold vintage-inspired typography",
+      "Classic unisex fit",
+      "Available on Etsy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Shipping and delivery details are available on Etsy.",
+    "etsyUrl": "https://callesil.etsy.com/listing/4584452662",
+    "reviews": [
+      {
+        "id": "rv-1",
+        "author": "Chloe M.",
+        "rating": 4,
+        "text": "Such a fun design! The colors are gorgeous and the olive graphic gives it the perfect retro Mediterranean vibe.",
+        "date": "September 2026"
+      }
+    ]
   }
 ]
