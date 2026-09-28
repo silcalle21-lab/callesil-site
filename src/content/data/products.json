@@ -671,6 +671,15 @@
     ],
     "fit": "Classic unisex fit.",
     "shipping": "Shipping and delivery details are available on Etsy.",
-    "etsyUrl": "https://callesil.etsy.com/listing/4584492001"
+    "etsyUrl": "https://callesil.etsy.com/listing/4584492001",
+    "reviews": [
+      {
+        "id": "rv-1",
+        "author": "Emily K.",
+        "rating": 5,
+        "text": "Such a fun statement tee! The colors are gorgeous and the leopard design looks even better in person.",
+        "date": "September 2026"
+      }
+    ]
   }
 ]
