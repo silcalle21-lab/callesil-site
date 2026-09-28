@@ -622,8 +622,30 @@
     "category": "Summer & Ocean",
     "shortDescription": "Salty air, tropical colors and carefree energy. A vibrant sea turtle graphic tee made for endless summer days.",
     "description": "Salty Girl brings tropical energy to everyday style. Featuring a colorful sea turtle in sunglasses with a bright hibiscus detail, this graphic tee captures sunny beach days, ocean adventures and CALLESIL’s playful spirit.",
+    "details": [
+      "Original CALLESIL graphic design",
+      "Colorful tropical sea turtle artwork",
+      "Beach-inspired summer aesthetic",
+      "Classic unisex fit",
+      "Available on Etsy"
+    ],
     "sizes": [
-      "S "
+      "S ",
+      "M",
+      "L",
+      "XL"
+    ],
+    "fit": "Classic unisex fit.",
+    "shipping": "Shipping and delivery details are available on Etsy.",
+    "etsyUrl": "https://callesil.etsy.com/listing/4584490224",
+    "reviews": [
+      {
+        "id": "rv-1",
+        "author": "Samantha R.",
+        "rating": 5,
+        "text": "The colors are so vibrant and the turtle is adorable. Such a fun tee for summer and beach days!",
+        "date": "September 2026"
+      }
     ]
   }
 ]
