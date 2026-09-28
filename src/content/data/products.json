@@ -613,5 +613,17 @@
         "date": "September 2026"
       }
     ]
+  },
+  {
+    "id": "p-17",
+    "slug": "salty-girl-sea-turtle",
+    "name": "Salty Girl T-Shirt | Tropical Sea Turtle Graphic Tee",
+    "image": "/callesil-site/assets/images/Untitled design-69.png",
+    "category": "Summer & Ocean",
+    "shortDescription": "Salty air, tropical colors and carefree energy. A vibrant sea turtle graphic tee made for endless summer days.",
+    "description": "Salty Girl brings tropical energy to everyday style. Featuring a colorful sea turtle in sunglasses with a bright hibiscus detail, this graphic tee captures sunny beach days, ocean adventures and CALLESIL’s playful spirit.",
+    "sizes": [
+      "S "
+    ]
   }
 ]
